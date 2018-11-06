@@ -10,6 +10,10 @@ published: true
 post_date: 2018-11-05 21:44:31
 ---
 <h2>Child Services</h2>		
+			<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<!-- jQuery library -->
+<!-- Latest compiled JavaScript -->
 			<h1>Children's Advocacy Center</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/ChildrenAdvocacy1-150x150.jpg" alt="" />											
 		<p>The Southwest Virginia Children's Advocacy Center (CAC) is a child friendly, child-focused, community oriented, safe facility where representatives from many disciplines meet to discuss and make decisions about the investigation, treatment, and prosecution of child abuse cases.</p>		
@@ -18,7 +22,7 @@ post_date: 2018-11-05 21:44:31
 					</a>
 			<h1>Healthy Families</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/HealthyFamilies1-150x150.jpg" alt="" />											
-		<p>Healthy Families for Southwest Virginia provides information and supportive services to first-time parents in Wise, Lee, and Scott Counties and the City of Norton.</p><p> </p>		
+		<p>Healthy Families for Southwest Virginia provides information and supportive services to first-time parents in Wise, Lee, and Scott Counties and the City of Norton.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
@@ -34,3 +38,12 @@ post_date: 2018-11-05 21:44:31
 			<a href="#" role="button">
 						Read More
 					</a>
+			<h2 style = "color: #0f6606;">
+    Hello
+</h2>
+<img>
+</img>
+<p> hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
+<button id = "readMore">
+    hello
+</button>
