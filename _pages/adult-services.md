@@ -12,13 +12,13 @@ post_date: 2018-11-05 21:44:18
 <h2>Adult Services</h2>		
 			<h1>P.A.C.E.</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+		<p>Mountain Empire PACE is a non-profit program.  It is funded through a contract with Medicaid and Medicare.  In the contract, Mountain Empire PACE agrees to provide every service covered by Medicaid and Medicare plus other services the IDT decides are necessary.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Elder Rights</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+		<table border="0" width="89%"><tbody><tr><td><p align="justify">Mountain Empire Older Citizens’ Elder Rights and Security Services links people to services that provides a safety net to help people remain in their own homes and communities.</p></td></tr></tbody></table><p> </p>		
 			<a href="#" role="button">
 						Read More
 					</a>
