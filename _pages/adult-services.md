@@ -96,12 +96,12 @@ post_date: 2018-11-05 21:44:18
 					</a>
 			<h1>Foster Grandparent Program</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/fostergrandparent-150x150.jpg" alt="" />											
-		<p>The MEOC Foster Grandparent Program places eligible senior citizens in schools and Head Start classrooms working one-on-one with children under the direction of the classroom teacher. hello</p>		
+		<p>The MEOC Foster Grandparent Program places eligible senior citizens in schools and Head Start classrooms working one-on-one with children under the direction of the classroom teacher.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Home Delivered Meals</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/home-delivered-meals-150x150.jpg" alt="" />											
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/home-delivered-meals-1-150x150.jpg" alt="" />											
 		<p>Home delivered meal service is available to homebound, frail elderly people who can no longer prepare nutritious well-balanced meals, have no one to assist them and are at-risk of losing their ability to live independently.</p>		
 			<a href="#" role="button">
 						Read More
