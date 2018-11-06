@@ -65,8 +65,8 @@ post_date: 2018-11-05 21:44:18
 						Read More
 					</a>
 			<h1>Elder Abuse Prevention</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+										<img width="120" height="80" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/neglect2.jpg" alt="" />											
+		<p>Services are provided to older persons and their families who are at risk of abuse, neglect, or exploitation.  Works hand in hand with Adult Protective Services of local Departments of Social Services, and follows state DSS guidelines for anonymous reporting of abuse.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
