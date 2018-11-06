@@ -107,14 +107,14 @@ post_date: 2018-11-05 21:44:18
 						Read More
 					</a>
 			<h1>Homemaker Services</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/Homemakerservices-150x150.jpg" alt="" />											
+		<p>These services are provided by trained home care workers who provide cooking, cleaning, shopping assistance, meal planning and laundry service. Services enable elderly people to care for themselves and to remain in a clean, safe, familiar environment for as long as possible.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>In-Home Respite Care</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/inhomerespite-150x150.jpg" alt="" />											
+		<p>In-Home Respite Services is a home-based program in which personal care aides provide relief for families providing around-the-clock care to a family member with some form of mental and/or physical impairment. Activities identified by family caregivers as being most basic and critical will be provided.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
