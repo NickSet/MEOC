@@ -71,7 +71,7 @@ post_date: 2018-11-05 21:44:18
 						Read More
 					</a>
 			<h1>Emergency Fuel Fund</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/139632-150x150.jpg" alt="" />											
 		<p>Funded entirely by local donations of cash, this service assists people 60 years of age and older who are trapped in winter emergency situations with no money to buy fuel or pay fuel bills. Designed to prevent needy persons from having to choose between paying for fuel, food or medicine.</p>		
 			<a href="#" role="button">
 						Read More
