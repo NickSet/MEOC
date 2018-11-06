@@ -24,7 +24,7 @@ post_date: 2018-11-05 21:44:18
 					</a>
 			<h1>Adult Day Health</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+		<p>Adult Day Health Care allows families to stay together by assisting them in caring for their loved ones.  It enables many people to live in the community and to avoid an unnecessary move into a nursing facility.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
