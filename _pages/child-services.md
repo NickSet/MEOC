@@ -14,6 +14,12 @@ post_date: 2018-11-05 21:44:31
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <!-- jQuery library -->
 <!-- Latest compiled JavaScript -->
+<!-- Modal -->
+        <button type="button" data-dismiss="modal" aria-label="Close">
+          &times;
+        </button>
+        ...
+        <button type="button" data-dismiss="modal">Close</button>
 			<h1>Children's Advocacy Center</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/ChildrenAdvocacy1-150x150.jpg" alt="" />											
 		<p>The Southwest Virginia Children's Advocacy Center (CAC) is a child friendly, child-focused, community oriented, safe facility where representatives from many disciplines meet to discuss and make decisions about the investigation, treatment, and prosecution of child abuse cases.</p>		
@@ -45,15 +51,12 @@ post_date: 2018-11-05 21:44:31
     border-radius: 4px;
     color: white;
    background-color:#0f6606;
-   margin: 0 auto;
 }
 </style>
 <h1 style = "text-align: center; color: #0f6606;
     font-weight: bold;">
     Hello
 </h1>
-<img>
-</img>
 <p style = "text-align: center;
   margin-left: 2%;
   margin-right:2%;"> hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
