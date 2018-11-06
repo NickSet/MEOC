@@ -29,25 +29,25 @@ post_date: 2018-11-05 21:44:18
 						Read More
 					</a>
 			<h1>A.D.R.C</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+										<img width="300" height="121" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/ADRC_of_WI_Logo04.I8_RGB-300x121.png" alt="" srcset="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/ADRC_of_WI_Logo04.I8_RGB-300x121.png 300w, http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/ADRC_of_WI_Logo04.I8_RGB.png 594w" sizes="(max-width: 300px) 100vw, 300px" />											
+		<p>Mountain Empire Older Citizens is an Aging and Disability Resource Center (ADRC).  ADRCs serve as single points of entry into the long-term care system for older adults and people with disabilities and are sometimes referred to as "one stop shops" or "no wrong door" systems.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Alzheimer's Support Group</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/alzheimers-support-150x150.jpg" alt="" />											
+		<p>MEOC provides bi-monthly support group meetings through its Alzheimer's/Caregiver support groups, a resource lending library for family caregivers which offers an impressive variety of informative DVDs and publications on Alzheimer's Disease and caregiving, and public advocacy on issues impacting individuals with dementia.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Care Coordination</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/care-coordination-150x150.jpg" alt="" />											
+		<p>Care Coordination assists older persons at risk of institutional placement to remain in their homes in their own communities.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Care Giver Support Groups</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/inhome-150x150.png" alt="" />											
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<a href="#" role="button">
 						Read More
