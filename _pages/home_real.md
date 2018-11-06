@@ -1,6 +1,6 @@
 ---
 ID: 96
-post_title: ""
+post_title: MEOC
 author: meocuser
 post_excerpt: ""
 layout: page
