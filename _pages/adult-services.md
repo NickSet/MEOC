@@ -18,7 +18,7 @@ post_date: 2018-11-05 21:44:18
 					</a>
 			<h1>Elder Rights</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<table border="0" width="89%"><tbody><tr><td><p align="justify">Mountain Empire Older Citizens’ Elder Rights and Security Services links people to services that provides a safety net to help people remain in their own homes and communities.</p></td></tr></tbody></table><p> </p>		
+		<p>Mountain Empire Older Citizens’ Elder Rights and Security Services links people to services that provides a safety net to help people remain in their own homes and communities.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
