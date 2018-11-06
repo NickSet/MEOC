@@ -18,7 +18,7 @@ post_date: 2018-11-05 21:44:31
 					</a>
 			<h1>Healthy Families</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/HealthyFamilies1-150x150.jpg" alt="" />											
-		<p>Healthy Families for Southwest Virginia provides information and supportive services to first-time parents in Wise, Lee, and Scott Counties and the City of Norton. </p>		
+		<p>Healthy Families for Southwest Virginia provides information and supportive services to first-time parents in Wise, Lee, and Scott Counties and the City of Norton. </p><p> </p>		
 			<a href="#" role="button">
 						Read More
 					</a>
