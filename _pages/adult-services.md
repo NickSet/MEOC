@@ -17,13 +17,13 @@ post_date: 2018-11-05 21:44:18
 						Read More
 					</a>
 			<h1>Elder Rights</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
+										<img width="150" height="136" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/elder-rights-150x136.jpg" alt="" />											
 		<p>Mountain Empire Older Citizens’ Elder Rights and Security Services links people to services that provides a safety net to help people remain in their own homes and communities.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Adult Day Health</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/adult-day-healthcare-150x150.jpg" alt="" />											
 		<p>Adult Day Health Care allows families to stay together by assisting them in caring for their loved ones.  It enables many people to live in the community and to avoid an unnecessary move into a nursing facility.</p>		
 			<a href="#" role="button">
 						Read More
