@@ -29,38 +29,38 @@ post_date: 2018-11-05 21:44:18
 						Read More
 					</a>
 			<h1>A.D.R.C</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
+										<img width="300" height="121" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/ADRC_of_WI_Logo04.I8_RGB-300x121.png" alt="" srcset="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/ADRC_of_WI_Logo04.I8_RGB-300x121.png 300w, http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/ADRC_of_WI_Logo04.I8_RGB.png 594w" sizes="(max-width: 300px) 100vw, 300px" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Alzheimer's Support Group</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/alzheimers-support-150x150.jpg" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Care Coordination</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/care-coordination-150x150.jpg" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Care Giver Support Groups</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/inhome-150x150.png" alt="" />											
-		<p>In Home and Family Support Services</p>		
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Communication Referral</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>MEOC is an Aging and Disabilities Resource Center whose goal is to meet all the requirements associated with that designation and provides these services to older persons as well as to adults with disabilities 18 years of age and older, families and caregivers.  MEOC receives referrals for assistance from many sources including individuals themselves, family members, neighbors, ministers, hospitals, home health agencies and others.</p>		
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Congregate Meals</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p style="font-weight: 400;">Home delivered meal service is available to homebound, frail elderly people who can no longer prepare nutritious well-balanced meals, have no one to assist them and are at-risk of losing their ability to live independently. </p><p style="font-weight: 400;">Given the rural, mountainous geography, meals are delivered in a variety of ways.  Those living in remote sections of the service area may receive a two or four-week supply of frozen dinners, if able to heat and store the meals.  Those older citizens who live in more populated sections of the area, may be able to receive daily hot meals.  MEOC home delivered meal service consists of one meal per day, five days per week.</p>		
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
