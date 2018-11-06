@@ -29,56 +29,56 @@ post_date: 2018-11-05 21:44:18
 						Read More
 					</a>
 			<h1>A.D.R.C</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+										<img width="300" height="121" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/ADRC_of_WI_Logo04.I8_RGB-300x121.png" alt="" srcset="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/ADRC_of_WI_Logo04.I8_RGB-300x121.png 300w, http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/ADRC_of_WI_Logo04.I8_RGB.png 594w" sizes="(max-width: 300px) 100vw, 300px" />											
+		<p>Mountain Empire Older Citizens is an Aging and Disability Resource Center (ADRC).  ADRCs serve as single points of entry into the long-term care system for older adults and people with disabilities and are sometimes referred to as "one stop shops" or "no wrong door" systems.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Alzheimer's Support Group</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/alzheimers-support-150x150.jpg" alt="" />											
+		<p>MEOC provides bi-monthly support group meetings through its Alzheimer's/Caregiver support groups, a resource lending library for family caregivers which offers an impressive variety of informative DVDs and publications on Alzheimer's Disease and caregiving, and public advocacy on issues impacting individuals with dementia.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Care Coordination</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/care-coordination-150x150.jpg" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Care Giver Support Groups</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/inhome-150x150.png" alt="" />											
-		<p>In Home and Family Support Services</p>		
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Communication Referral</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>MEOC is an Aging and Disabilities Resource Center whose goal is to meet all the requirements associated with that designation and provides these services to older persons as well as to adults with disabilities 18 years of age and older, families and caregivers.  </p>		
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Congregate Meals</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p style="font-weight: 400;">Home delivered meal service is available to homebound, frail elderly people who can no longer prepare nutritious well-balanced meals, have no one to assist them and are at-risk of losing their ability to live independently. </p>		
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Elder Abuse Prevention</h1>		
-										<img width="120" height="80" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/neglect2.jpg" alt="" />											
-		<p>Services are provided to older persons and their families who are at risk of abuse, neglect, or exploitation.  Works hand in hand with Adult Protective Services of local Departments of Social Services, and follows state DSS guidelines for anonymous reporting of abuse.</p>		
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Emergency Fuel Fund</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/139632-150x150.jpg" alt="" />											
-		<p>Funded entirely by local donations of cash, this service assists people 60 years of age and older who are trapped in winter emergency situations with no money to buy fuel or pay fuel bills. Designed to prevent needy persons from having to choose between paying for fuel, food or medicine.</p>		
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Family Support Services</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>MEOC’s Family Caregiver Support Services addresses the needs of families caring for adults age 60 and older. </p>		
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
