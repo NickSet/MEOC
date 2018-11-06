@@ -60,7 +60,7 @@ post_date: 2018-11-05 21:44:18
 					</a>
 			<h1>Congregate Meals</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+		<p style="font-weight: 400;">Home delivered meal service is available to homebound, frail elderly people who can no longer prepare nutritious well-balanced meals, have no one to assist them and are at-risk of losing their ability to live independently. </p><p style="font-weight: 400;">Given the rural, mountainous geography, meals are delivered in a variety of ways.  Those living in remote sections of the service area may receive a two or four-week supply of frozen dinners, if able to heat and store the meals.  Those older citizens who live in more populated sections of the area, may be able to receive daily hot meals.  MEOC home delivered meal service consists of one meal per day, five days per week.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
