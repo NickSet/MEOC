@@ -47,7 +47,7 @@ post_date: 2018-11-05 21:44:18
 						Read More
 					</a>
 			<h1>Care Giver Support Groups</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/inhome-150x150.png" alt="" />											
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>In Home and Family Support Services</p>		
 			<a href="#" role="button">
 						Read More
@@ -78,7 +78,7 @@ post_date: 2018-11-05 21:44:18
 					</a>
 			<h1>Family Support Services</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>MEOC’s Family Caregiver Support Services addresses the needs of families caring for adults age 60 and older. </p>		
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
