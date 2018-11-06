@@ -54,7 +54,7 @@ post_date: 2018-11-05 21:44:18
 					</a>
 			<h1>Communication Referral</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>MEOC is an Aging and Disabilities Resource Center whose goal is to meet all the requirements associated with that designation and provides these services to older persons as well as to adults with disabilities 18 years of age and older, families and caregivers.  MEOC receives referrals for assistance from many sources including individuals themselves, family members, neighbors, ministers, hospitals, home health agencies and others.</p>		
+		<p>MEOC is an Aging and Disabilities Resource Center whose goal is to meet all the requirements associated with that designation and provides these services to older persons as well as to adults with disabilities 18 years of age and older, families and caregivers.  </p>		
 			<a href="#" role="button">
 						Read More
 					</a>
