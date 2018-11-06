@@ -11,7 +11,7 @@ post_date: 2018-11-05 21:44:18
 ---
 <h2>Adult Services</h2>		
 			<h1>P.A.C.E.</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/pace.png" alt="" />											
 		<p>Mountain Empire PACE is a non-profit program.  It is funded through a contract with Medicaid and Medicare.  In the contract, Mountain Empire PACE agrees to provide every service covered by Medicaid and Medicare plus other services the IDT decides are necessary.</p>		
 			<a href="#" role="button">
 						Read More
