@@ -77,7 +77,7 @@ post_date: 2018-11-05 21:44:39
 <p style = "text-align: center;
   margin-left: 2%;
   margin-right:2%;"> hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
-<a href="#popup1">Let me Pop up</a>
+<a href="#popup1">Read MORe</a>
 		<h2>Here i am</h2>
 		<a href="#">&times;</a>
 			Thank to pop me out of that button, but now i'm done so you can close this window.
@@ -85,38 +85,17 @@ post_date: 2018-11-05 21:44:39
 <style>
 body {
   font-family: Arial, sans-serif;
-  background: url(http://www.shukatsu-note.com/wp-content/uploads/2014/12/computer-564136_1280.jpg) no-repeat;
   background-size: cover;
   height: 100vh;
 }
-h1 {
-  text-align: center;
-  font-family: Tahoma, Arial, sans-serif;
-  color: #06D85F;
-  margin: 80px 0;
-}
-.box {
-  width: 40%;
-  margin: 0 auto;
-  background: rgba(255,255,255,0.2);
-  padding: 35px;
-  border: 2px solid #fff;
-  border-radius: 20px/50px;
-  background-clip: padding-box;
-  text-align: center;
-}
 .button {
-  font-size: 1em;
   padding: 10px;
-  color: #fff;
-  border: 2px solid #06D85F;
-  border-radius: 20px/50px;
-  text-decoration: none;
+  border-radius: 5px;
   cursor: pointer;
-  transition: all 0.3s ease-out;
+  background-color: #0f6606
 }
 .button:hover {
-  background: #06D85F;
+  background: #BLACK;
 }
 .overlay {
   position: fixed;
@@ -141,11 +120,6 @@ h1 {
   width: 30%;
   position: relative;
   transition: all 5s ease-in-out;
-}
-.popup h2 {
-  margin-top: 0;
-  color: #333;
-  font-family: Tahoma, Arial, sans-serif;
 }
 .popup .close {
   position: absolute;
