@@ -129,7 +129,7 @@ body {
   font-size: 30px;
   font-weight: bold;
   text-decoration: none;
-  color: #0000;
+  color: #9999;
 }
 .popup .close:hover {
   color: #ff0000;
