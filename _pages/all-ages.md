@@ -102,6 +102,18 @@ body {
   background-size: cover;
   height: 100vh;
 }
+h1{
+    text-align: center
+}
+h2{
+    text-align: center
+}
+h3{
+    text-align: center
+}
+h4{
+    text-align: center
+}
 .button {
   padding: 10px;
   border-radius: 5px;
