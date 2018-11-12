@@ -76,7 +76,8 @@ post_date: 2018-11-05 21:44:39
 </h1>
 <p style = "text-align: center;
   margin-left: 2%;
-  margin-right:2%;"> hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
+  margin-right:2%;"> hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+</p>
 <a href="#popup1">Read MORe</a>
 		<h2>Here i am</h2>
 		<a href="#">&times;</a>
@@ -95,7 +96,7 @@ body {
   background-color: #0f6606
 }
 .button:hover {
-  background: #BLACK;
+  background: #9999;
 }
 .overlay {
   position: fixed;
