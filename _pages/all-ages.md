@@ -86,7 +86,7 @@ post_date: 2018-11-05 21:44:39
 		    </h1>
 		    <h2>
 		        Make A Difference, Volunteer at MEOC
-		    <h2>
+		    </h2>
 		    <h3>
 		        Volunteer Opprotuinities Available 
 		    </h3>
