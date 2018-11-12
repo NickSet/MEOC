@@ -71,19 +71,17 @@ post_date: 2018-11-05 21:44:39
 					</a>
 			<h1 style = "text-align: center; color: #0f6606;
     font-weight: bold;">
-    Hello
+    Volunteer Programs
 </h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/Volunteer1-150x150.jpg" alt="" />											
 			<p style = "text-align: center;
   margin-left: 2%;
   margin-right:2%;"> hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 </p>		
-			</body>
 <a href="#popup1">Read MORe</a>
 		<h2>Here i am</h2>
 		<a href="#">&times;</a>
 			Thank to pop me out of that button, but now i'm done so you can close this window.
-</body>
 <style>
 body {
   font-family: Arial, sans-serif;
@@ -131,86 +129,7 @@ body {
   font-size: 30px;
   font-weight: bold;
   text-decoration: none;
-  color: #333;
-}
-.popup .close:hover {
-  color: #06D85F;
-}
-.popup .content {
-  max-height: 30%;
-  overflow: auto;
-}
-@media screen and (max-width: 700px){
-  .box{
-    width: 70%;
-  }
-  .popup{
-    width: 70%;
-  }
-}
-</style>		
-			<body>
-<h1 style = "text-align: center; color: #0f6606;
-    font-weight: bold;">
-    Hello
-</h1>
-<p style = "text-align: center;
-  margin-left: 2%;
-  margin-right:2%;"> hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-</p>
-<a href="#popup1">Read MORe</a>
-		<h2>Here i am</h2>
-		<a href="#">&times;</a>
-			Thank to pop me out of that button, but now i'm done so you can close this window.
-</body>
-<style>
-body {
-  font-family: Arial, sans-serif;
-  background-size: cover;
-  height: 100vh;
-}
-.button {
-  padding: 10px;
-  border-radius: 5px;
-  cursor: pointer;
-  background-color: #0f6606
-}
-.button:hover {
-  background: #9999;
-}
-.overlay {
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: rgba(0, 0, 0, 0.7);
-  transition: opacity 500ms;
-  visibility: hidden;
-  opacity: 0;
-}
-.overlay:target {
-  visibility: visible;
-  opacity: 1;
-}
-.popup {
-  margin: 70px auto;
-  padding: 20px;
-  background: #fff;
-  border-radius: 5px;
-  width: 30%;
-  position: relative;
-  transition: all 5s ease-in-out;
-}
-.popup .close {
-  position: absolute;
-  top: 20px;
-  right: 30px;
-  transition: all 200ms;
-  font-size: 30px;
-  font-weight: bold;
-  text-decoration: none;
-  color: #333;
+  color: #666;
 }
 .popup .close:hover {
   color: #06D85F;
