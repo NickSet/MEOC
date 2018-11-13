@@ -135,8 +135,36 @@ h1, h2 {
                 Toll Free:  866-793-7223<br>
                 Medical Records Fax: 276-523-6480<br>
                 Administrative Fax:  276-523-6483<br>
-                <a href="mailto:pstewart@meoc.org">pstewart@meoc.org<br></p>
+                <a href="mailto:pstewart@meoc.org">pstewart@meoc.org</a><br></p>
         </center>
+        <h2>PACE Center Services</h2>
+        <ul>
+            <li>Physician services by a geriatric specialist</li>
+            <li>Nursing Care</li>
+            <li>Physical Therapy</li>
+            <li>Occupational Therapy</li>
+            <li>Speech Therapy</li>
+            <li>Recreation and Social Activities</li>
+            <li>Adult Day Health and Respite Care</li>
+            <li>Meals and Nutrition Counseling</li>
+            <li>Personal Care (bathing, grooming, help with other activities of daily living)</li>
+            <li>Social Services</li>
+            <li>Care Coordination, and Transportaion</li>
+        </ul>
+        <h2>In-Home Services</h2>
+        <ul>
+            <li>24-hour on-call physician services</li>
+            <li>Adaptation of the home to accommodate disabilities or special needs</li>
+            <li>Home delivered meals</li>
+            <li>Home Health (skilled nursing services)</li>
+            <li>Homemaker and chore services</li>
+            <li>Personal Care (bathing, grooming, other help with activities of daily living)</li>
+            <li>Lifeline Emergency Response System</li>
+            <li>Prescription medication and assistance respite services</li>
+            <li>Respite Care</li>
+            <li>Restorative therapies (physical, occupational, speech)</li>
+            <li>Transportation to/from PACE appointments</li>
+        </ul>
 			<h1>Elder Rights</h1>		
 										<img width="150" height="136" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/elder-rights-150x136.jpg" alt="" />											
 		<p>Mountain Empire Older Citizens’ Elder Rights and Security Services links people to services that provides a safety net to help people remain in their own homes and communities.</p>		
