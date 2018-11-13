@@ -93,6 +93,9 @@ h1, h2 {
     padding: 2px 16px;
     color:#222;
 }
+#myBtn:hover {
+    background: #008000;
+}
 #myBtn {
     background: #0f6606;
     color: #FFF;
