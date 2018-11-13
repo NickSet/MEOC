@@ -106,6 +106,19 @@ h1, h2 {
       <p>Services are usually provided in the PACE Center and in the participant’s home,   but when needed are also provided in a hospital,  nursing home, or rehabilitation center.  The PACE Center is located at 1508 Third Avenue East in Big Stone Gap.  Hours of Operation are 8:30 AM to 4:30 PM Monday through Friday.  Medical coverage is available seven days a week, twenty-four hours a day.</p>
       <p>The PACE  Interdisciplinary Team, composed of health care professionals with expertise in multiple areas, develops a plan of care to optimize each participant’s care to enable them to  safely live in their own home.  At home, participants can receive personal care, homemaker services, skilled nursing care, medicine, nutrition, and restorative therapies as needed.</p>
        <p>When participants need specialty medical care, PACE makes appointments, provides transportation, and coordinates care with the specialists.  The PACE physician admits and follows participants in the hospital and hursing home.</p>
+       <h2>Enrollment Information</h2>
+       <p>MEOC became a permanent provider of PACE services in March 2008 and immediately started enrolling participants.  We hope to reach a permanent enrollment level of 150 - 180 participants. </p>
+       <p>For more information, contact:</p>
+       <strong>Pam Stewart</strong><br>
+        Enrollment Coordinator<br>
+        Mountain Empire Older Citizens, Inc.<br>
+        P.O. Box 888<br>
+        Big Stone Gap, Virginia  24219<br>
+        276-523-0599<br>
+        Toll Free:  866-793-7223<br>
+        Medical Records Fax: 276-523-6480<br>
+        Administrative Fax:  276-523-6483<br>
+        pstewart@meoc.org<br>
 			<h1>Elder Rights</h1>		
 										<img width="150" height="136" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/elder-rights-150x136.jpg" alt="" />											
 		<p>Mountain Empire Older Citizens’ Elder Rights and Security Services links people to services that provides a safety net to help people remain in their own homes and communities.</p>		
