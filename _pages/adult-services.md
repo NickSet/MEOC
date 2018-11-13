@@ -19,7 +19,7 @@ post_date: 2018-11-05 21:44:18
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
     z-index: 1; /* Sit on top */
-    padding-top: 100px; /* Location of the box */
+    padding-top: 60px; /* Location of the box */
     left: 0;
     top: 0;
     width: 100%; /* Full width */
@@ -31,11 +31,11 @@ post_date: 2018-11-05 21:44:18
 /* Modal Content */
 .modal-content {
     position: relative;
-    background-color: #fefefe;
+    background: #FFF;
     margin: auto;
     padding: 0;
     border: 1px solid #888;
-    width: 80%;
+    width: 90%;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
     -webkit-animation-name: animatetop;
     -webkit-animation-duration: 0.4s;
@@ -53,21 +53,20 @@ post_date: 2018-11-05 21:44:18
 }
 /* The Close Button */
 .close {
-    color: white;
+    color: #0f6606;
     float: right;
     font-size: 28px;
     font-weight: bold;
 }
 .close:hover,
 .close:focus {
-    color: #000;
+    color: #5cb85c;
     text-decoration: none;
     cursor: pointer;
 }
 .modal-header {
     padding: 2px 16px;
-    background-color: #5cb85c;
-    color: white;
+    color: #0f6606;
 }
 .modal-body {padding: 2px 16px;}
 .modal-footer {
@@ -90,7 +89,7 @@ post_date: 2018-11-05 21:44:18
 <!-- The Modal -->
   <!-- Modal content -->
       &times;
-      <h2>Modal Header</h2>
+      <h2>P.A.C.E.</h2>
       <p>Some text in the Modal Body</p>
       <p>Some other text...</p>
       <h3>Modal Footer</h3>
