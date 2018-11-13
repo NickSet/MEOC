@@ -19,7 +19,7 @@ post_date: 2018-11-05 21:44:18
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
     z-index: 1; /* Sit on top */
-    padding-top: 80px; /* Location of the box */
+    padding-top: 100px; /* Location of the box */
     left: 0;
     top: 0;
     width: 100%; /* Full width */
