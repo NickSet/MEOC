@@ -68,11 +68,14 @@ post_date: 2018-11-05 21:44:18
     padding: 2px 16px;
     color: #0f6606;
 }
-.modal-body {padding: 2px 16px;}
-.modal-footer {
+h1, h2 {
+    color: #0f6606;
+    margin-top: 16px;
+    margin-left: 8px;
+}
+.modal-body {
     padding: 2px 16px;
-    background-color: #5cb85c;
-    color: white;
+    color:#222;
 }
 #myBtn {
     background: #0f6606;
@@ -89,10 +92,20 @@ post_date: 2018-11-05 21:44:18
 <!-- The Modal -->
   <!-- Modal content -->
       &times;
-      <h2>P.A.C.E.</h2>
-      <p>Some text in the Modal Body</p>
-      <p>Some other text...</p>
-      <h3>Modal Footer</h3>
+      <h1>P.A.C.E.</h1>
+        <p>Mountain Empire PACE is a health care plan for frail seniors who live in Wise County, Lee County, Scott County or the City of Norton.  PACE stands for Program of All-Inclusive Care for the Elderly.</p>
+        <p>PACE is a nationally recognized model of long term care that allows frail older people to live in their own homes and communities as long as possible.  PACE offers a broad range of medical, social, and day health services in home-based and community-based settings and affords hospital or nursing home care when needed.</p>
+      <h2>Eligibility</h2>
+      <ul>
+          <li>be 55 years of age or older</li>
+          <li>live in Norton or in Lee, Scott or Wise Counties</li>
+          <li>be certified as eligible for nursing home level of care by the Commonwealth of Virginia, and</li>
+          <li>be able to live safely in the community with support services arranged by PACE.</li>
+      </ul>
+      <h2>Location</h2>
+      <p>Services are usually provided in the PACE Center and in the participant’s home,   but when needed are also provided in a hospital,  nursing home, or rehabilitation center.  The PACE Center is located at 1508 Third Avenue East in Big Stone Gap.  Hours of Operation are 8:30 AM to 4:30 PM Monday through Friday.  Medical coverage is available seven days a week, twenty-four hours a day.</p>
+      <p>The PACE  Interdisciplinary Team, composed of health care professionals with expertise in multiple areas, develops a plan of care to optimize each participant’s care to enable them to  safely live in their own home.  At home, participants can receive personal care, homemaker services, skilled nursing care, medicine, nutrition, and restorative therapies as needed.</p>
+       <p>When participants need specialty medical care, PACE makes appointments, provides transportation, and coordinates care with the specialists.  The PACE physician admits and follows participants in the hospital and hursing home.</p>
 			<h1>Elder Rights</h1>		
 										<img width="150" height="136" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/elder-rights-150x136.jpg" alt="" />											
 		<p>Mountain Empire Older Citizens’ Elder Rights and Security Services links people to services that provides a safety net to help people remain in their own homes and communities.</p>		
