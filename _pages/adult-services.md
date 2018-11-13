@@ -78,10 +78,14 @@ post_date: 2018-11-05 21:44:18
 #myBtn {
     background: #0f6606;
     color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
 }
 </style>
 <center>
-<button id="myBtn">Open Modal</button>
+<button id="myBtn">Read More</button>
 </center>
 <!-- The Modal -->
   <!-- Modal content -->
