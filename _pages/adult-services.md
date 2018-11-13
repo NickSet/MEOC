@@ -14,6 +14,22 @@ post_date: 2018-11-05 21:44:18
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/pace.png" alt="" />											
 		<p>Mountain Empire PACE is a non-profit program.  It is funded through a contract with Medicaid and Medicare.  In the contract, Mountain Empire PACE agrees to provide every service covered by Medicaid and Medicare plus other services the IDT decides are necessary.</p>		
 <style>
+h4 {
+	color: #0f6606;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 500px;
+    border-radius: 5px;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.container {
+    padding: 4px 16px;
+    text-align: left;
+}
 /* The Modal (background) */
 .modal {
     display: none; /* Hidden by default */
@@ -109,16 +125,18 @@ h1, h2 {
        <h2>Enrollment Information</h2>
        <p>MEOC became a permanent provider of PACE services in March 2008 and immediately started enrolling participants.  We hope to reach a permanent enrollment level of 150 - 180 participants. </p>
        <p>For more information, contact:</p>
-       <strong>Pam Stewart</strong><br>
-        Enrollment Coordinator<br>
-        Mountain Empire Older Citizens, Inc.<br>
-        P.O. Box 888<br>
-        Big Stone Gap, Virginia  24219<br>
-        276-523-0599<br>
-        Toll Free:  866-793-7223<br>
-        Medical Records Fax: 276-523-6480<br>
-        Administrative Fax:  276-523-6483<br>
-        pstewart@meoc.org<br>
+       <center>
+            <center><h4><b>Pam Stewart</b></h4> 
+            <p>Enrollment Coordinator</p></center>
+            <p>Mountain Empire Older Citizens, Inc.<br>
+                P.O. Box 888<br>
+                Big Stone Gap, Virginia  24219<br>
+                276-523-0599<br>
+                Toll Free:  866-793-7223<br>
+                Medical Records Fax: 276-523-6480<br>
+                Administrative Fax:  276-523-6483<br>
+                <a href="mailto:pstewart@meoc.org">pstewart@meoc.org<br></p>
+        </center>
 			<h1>Elder Rights</h1>		
 										<img width="150" height="136" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/elder-rights-150x136.jpg" alt="" />											
 		<p>Mountain Empire Older Citizens’ Elder Rights and Security Services links people to services that provides a safety net to help people remain in their own homes and communities.</p>		
