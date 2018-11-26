@@ -44,22 +44,3 @@ post_date: 2018-11-05 21:44:31
 			<a href="#" role="button">
 						Read More
 					</a>
-			<style>
-#readMore{
-    width: 30%;
-    height: 25%;
-    border-radius: 4px;
-    color: white;
-   background-color:#0f6606;
-}
-</style>
-<h1 style = "text-align: center; color: #0f6606;
-    font-weight: bold;">
-    Hello
-</h1>
-<p style = "text-align: center;
-  margin-left: 2%;
-  margin-right:2%;"> hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
-<button id = "readMore">
-    Read More
-</button>
