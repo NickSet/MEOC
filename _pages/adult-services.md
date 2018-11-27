@@ -93,10 +93,10 @@ h1, h2 {
     padding: 2px 16px;
     color:#222;
 }
-#myBtn:hover {
+#paceBtn:hover {
     background: #008000;
 }
-#myBtn {
+#paceBtn {
     background: #0f6606;
     color: #FFF;
     font-size: 16px;
@@ -106,7 +106,7 @@ h1, h2 {
 }
 </style>
 <center>
-<button id="myBtn">Read More</button>
+<button id="paceBtn">Read More</button>
 </center>
 <!-- The Modal -->
   <!-- Modal content -->
