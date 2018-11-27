@@ -200,7 +200,7 @@ h1, h2 {
             <li>Intake Procedure:  Walk-ins and telephonereferrals accepted. Anonymity protected by request.</li>
             <li>Service Area:  Lee, Scott and Wise Counties, and The City of Norton.</li>
             <li>Phone(s):  (276) 523-4202, 1-800-252-6362</li>
-            <li>E-Mail:  Debbie Collier at dcollier@meoc.org</li>
+            <li>E-Mail:  Debbie Collier at <a href="mailto:dcollier@meoc.org">dcollier@meoc.org</a></li>
         </ul>
 			<h1>Adult Day Health</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/adult-day-healthcare-150x150.jpg" alt="" />											
