@@ -225,17 +225,26 @@ h1, h2 {
   <!-- Modal content -->
       &times;
       <h1>Adult Day Health Care</h1>
-        <p>Mountain Empire Older Citizens’ Elder Rights and Security Services links people to services that provides a safety net to help people remain in their own homes and communities. For people 60 years of age or older, this includes assistance with emergency home heating needs during the winter months. It also assists Medicare and Medicaid recipients with coverage and billing issues and fraud prevention within the Medicare and Medicaid programs.  For adults of all ages this includes a personal emergency response system, help to access free medications from pharmaceutical companies and Public Guardianship. The Elder Rights and Security Services unit also provides Long-term Care Ombudsman service to nursing home residents and their family members.</p>
-        <h2>Elder Abuse Prevention</h2>
-        <p>Services are provided to older persons and their families who are at risk of abuse, neglect, or exploitation.  Works hand in hand with Adult Protective Services of local Departments of Social Services, and follows state DSS guidelines for anonymous reporting of abuse.</p>
-        <ul>
-            <li>Fees: No charge.</li>Fees: No charge.
-            <li>Eligibility:  Persons aged 60+</li>
-            <li>Intake Procedure:  Walk-ins and telephonereferrals accepted. Anonymity protected by request.</li>
-            <li>Service Area:  Lee, Scott and Wise Counties, and The City of Norton.</li>
-            <li>Phone(s):  (276) 523-4202, 1-800-252-6362</li>
-            <li>E-Mail:  Debbie Collier at <a href="mailto:dcollier@meoc.org">dcollier@meoc.org</a></li>
-        </ul>
+        <p>Adult Day Health Care allows families to stay together by assisting them in caring for their loved ones.  It enables many people to live in the community and to avoid an unnecessary move into a nursing facility.</p>
+      <h2>Hours</h2>
+      <p>Mountain Empire PACE offers Adult Day Health Care in Big Stone Gap Monday through Friday from 8:30 a.m. - 4:30 p.m.</p>
+      <h2>Fees</h2>
+      <p>Private pay.  Medicaid and Veteran's Administration reimbursement is available for eligible individuals.</p>
+      <h2>Eligibility</h2>
+      <p>Adults 18 years of age and older in need of supervision during the day.</p>
+      <h2>Contact</h2>
+       <center>
+            <center><h4><b>Pam Stewart</b></h4> 
+            <p>Enrollment Coordinator</p></center>
+            <p>Mountain Empire Older Citizens, Inc.<br>
+                P.O. Box 888<br>
+                Big Stone Gap, Virginia  24219<br>
+                276-523-0599<br>
+                Toll Free:  866-793-7223<br>
+                Medical Records Fax: 276-523-6480<br>
+                Administrative Fax:  276-523-6483<br>
+                <a href="mailto:pstewart@meoc.org">pstewart@meoc.org</a><br></p>
+        </center>
 			<h1>A.D.R.C</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
