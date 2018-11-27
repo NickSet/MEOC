@@ -205,9 +205,37 @@ h1, h2 {
 			<h1>Adult Day Health</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/adult-day-healthcare-150x150.jpg" alt="" />											
 		<p>Adult Day Health Care allows families to stay together by assisting them in caring for their loved ones.  It enables many people to live in the community and to avoid an unnecessary move into a nursing facility.</p>		
-			<a href="#" role="button">
-						Read More
-					</a>
+			<style>
+#adultDayHealthBtn:hover {
+    background: #008000;
+}
+#adultDayHealthBtn {
+    background: #0f6606;
+    color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
+}
+</style>
+<center>
+<button id="adultDayHealthBtn">Read More</button>
+</center>
+<!-- The Modal -->
+  <!-- Modal content -->
+      &times;
+      <h1>Adult Day Health Care</h1>
+        <p>Mountain Empire Older Citizens’ Elder Rights and Security Services links people to services that provides a safety net to help people remain in their own homes and communities. For people 60 years of age or older, this includes assistance with emergency home heating needs during the winter months. It also assists Medicare and Medicaid recipients with coverage and billing issues and fraud prevention within the Medicare and Medicaid programs.  For adults of all ages this includes a personal emergency response system, help to access free medications from pharmaceutical companies and Public Guardianship. The Elder Rights and Security Services unit also provides Long-term Care Ombudsman service to nursing home residents and their family members.</p>
+        <h2>Elder Abuse Prevention</h2>
+        <p>Services are provided to older persons and their families who are at risk of abuse, neglect, or exploitation.  Works hand in hand with Adult Protective Services of local Departments of Social Services, and follows state DSS guidelines for anonymous reporting of abuse.</p>
+        <ul>
+            <li>Fees: No charge.</li>Fees: No charge.
+            <li>Eligibility:  Persons aged 60+</li>
+            <li>Intake Procedure:  Walk-ins and telephonereferrals accepted. Anonymity protected by request.</li>
+            <li>Service Area:  Lee, Scott and Wise Counties, and The City of Norton.</li>
+            <li>Phone(s):  (276) 523-4202, 1-800-252-6362</li>
+            <li>E-Mail:  Debbie Collier at <a href="mailto:dcollier@meoc.org">dcollier@meoc.org</a></li>
+        </ul>
 			<h1>A.D.R.C</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
