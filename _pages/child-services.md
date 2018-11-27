@@ -93,10 +93,10 @@ h1, h2 {
     padding: 2px 16px;
     color:#222;
 }
-#myBtn2:hover {
+#CAC-button:hover {
     background: #008000;
 }
-#myBtn2 {
+#CAC-button {
     background: #0f6606;
     color: #FFF;
     font-size: 16px;
@@ -106,7 +106,7 @@ h1, h2 {
 }
 </style>
 <center>
-<button id="myBtn2">Read More</button>
+<button id="CAC-button">Read More</button>
 </center>
 <!-- The Modal -->
   <!-- Modal content -->
