@@ -9,6 +9,9 @@ published: true
 post_date: 2018-11-05 21:44:59
 ---
 <h2>About Us</h2>		
+			<h1>Contact Us</h1>		
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
+		<p>We at Mountain Empire Older Citizens want to welcome you to our home on the web.  If you are here to learn more about us please look around.  We hope that you will find the site informative, easy to understand and easy to follow.  If you have comments about the site please email us at <a href="mailto:info@meoc.org">info@meoc.org</a>, or use the online form below.</p>		
 <style>
 h4 {
 	color: #0f6606;
@@ -166,9 +169,6 @@ Michael Henson, Information Technology Director<br></p>
     <textarea id="Comment" name="Comment" placeholder="Write something.." style="height:200px"></textarea>
     <input type="submit" value="Submit">
   </form>
-			<h1>Contact Us</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>We at Mountain Empire Older Citizens want to welcome you to our home on the web.  If you are here to learn more about us please look around.  We hope that you will find the site informative, easy to understand and easy to follow.  If you have comments about the site please email us at <a href="mailto:info@meoc.org">info@meoc.org</a>, or use the online form below.</p>		
 			<h1>Employment/Volunteer</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/Children.png" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
