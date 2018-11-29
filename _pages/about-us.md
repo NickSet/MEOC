@@ -274,7 +274,7 @@ h1, h2 {
         <p>Mountain Empire Older Citizens is an equal opportunity provider and employer.  We are a Drug Free Workplace and ongoing compliance with the Drug and Alcohol Testing Program is mandatory.  All employees are subject to Pre-Employment and Reasonable Suspicion testing.  Some departments also require Random and Post Accident testing.  MEOC has a zero tolerance Drug and Alcohol Policy.  Read it here:  MEOC Drug Free Work Place Policy</p>
         <p>MEOC is an EEO Employer, providing services to senior citizens, children and the general public.  We continuously take applications for Personal Care Aides as well as non-CDL and CDL bus drivers.</p>
         <p>We are taking online applications here: <a href="https://meoc.ninjagig.com/"><strong>Current Job Openings:Find a Job & Apply Today</strong></a></p>
-    <h2>Volunteering: Keeps Me Motivated</h2> 
+    <h1>Volunteering Keeps Me Motivated!</h1> 
     <h5>Get Involved!<br>
         Make a Diffeence!<br>
         Voluneer iwth MEOC!<br>
@@ -316,7 +316,7 @@ No "barrier crime" convictions (See §32.1-126.01 and §32.1-162.91:1 and §63.2
 No "barrier crime" convictions (See § 32.1-126.01 and §32.1-162.9:1 and §63.2‐1719 of the Code of Virginia for a complete list)..<br>
 MEOC is a Drug Free Workplace and ongoing compliance with the Drug and Alcohol Testing Program is mandatory. All employees are subject to Pre-Employment and Reasonable Suspicion testing. Some departments also require Random and Post Accident testing. MEOC has a zero tolerance Drug and Alcohol Policy.<br>
 Must complete online application and upload resume at <a href="https://meoc.ninjagig.com/jobs"><strong>(https://meoc.ninjagig.com/jobs)</strong></a>.   Mountain Empire Older Citizens, Inc. is an equal opportunity employer.  EEO-VET-AA-OLDER Workers.<br></p>
-<h2>MEOC TRANSIT: EEO/NET/AA/OLDER WORKER</h2>
+<h2>MEOC TRANSIT - EEO/NET/AA/OLDER WORKER</h2>
 <h3>Public Transit Bus Drivers</h3>
 <p>20-40 hours per week - Start $7.50/hour.  $7.75/hour at six-months.  $8.25/hour at 12 months with satisfactory performance.  Must obtain CDT by 12th month for that raise.<br> 
 Mountain Empire Older Citizens is an equal opportunity provider and employer.</p>
