@@ -272,18 +272,59 @@ h1, h2 {
       &times;
       <h1>Employment & Volunteer Opportunities</h1>
         <p>Mountain Empire Older Citizens is an equal opportunity provider and employer.  We are a Drug Free Workplace and ongoing compliance with the Drug and Alcohol Testing Program is mandatory.  All employees are subject to Pre-Employment and Reasonable Suspicion testing.  Some departments also require Random and Post Accident testing.  MEOC has a zero tolerance Drug and Alcohol Policy.  Read it here:  MEOC Drug Free Work Place Policy</p>
-        <p>PACE is a nationally recognized model of long term care that allows frail older people to live in their own homes and communities as long as possible.  PACE offers a broad range of medical, social, and day health services in home-based and community-based settings and affords hospital or nursing home care when needed.</p>
-      <h2>Eligibility</h2>
-      <ul>
-          <li>be 55 years of age or older</li>
-          <li>live in Norton or in Lee, Scott or Wise Counties</li>
-          <li>be certified as eligible for nursing home level of care by the Commonwealth of Virginia, and</li>
-          <li>be able to live safely in the community with support services arranged by PACE.</li>
-      </ul>
-      <h2>Location</h2>
-      <p>Services are usually provided in the PACE Center and in the participant’s home,   but when needed are also provided in a hospital,  nursing home, or rehabilitation center.  The PACE Center is located at 1508 Third Avenue East in Big Stone Gap.  Hours of Operation are 8:30 AM to 4:30 PM Monday through Friday.  Medical coverage is available seven days a week, twenty-four hours a day.</p>
-      <p>The PACE  Interdisciplinary Team, composed of health care professionals with expertise in multiple areas, develops a plan of care to optimize each participant’s care to enable them to  safely live in their own home.  At home, participants can receive personal care, homemaker services, skilled nursing care, medicine, nutrition, and restorative therapies as needed.</p>
-       <p>When participants need specialty medical care, PACE makes appointments, provides transportation, and coordinates care with the specialists.  The PACE physician admits and follows participants in the hospital and hursing home.</p>
+        <p>MEOC is an EEO Employer, providing services to senior citizens, children and the general public.  We continuously take applications for Personal Care Aides as well as non-CDL and CDL bus drivers.</p>
+        <p>We are taking online applications here: <a href="https://meoc.ninjagig.com/"><strong>Current Job Openings:Find a Job & Apply Today</strong></a></p>
+    <h2>Volunteering: Keeps Me Motivated</h2> 
+    <h5>Get Involved!<br>
+        Make a Diffeence!<br>
+        Voluneer iwth MEOC!<br>
+    </h5>
+    <h2>Mountain Laurel Cancer Support and Resource Center</h2>
+    <p>he Mountain Laurel Cancer Support and Resource Center is in need of volunteers to deliver liquid nutritional supplements to individuals receiving cancer treatment.  There are also volunteer opportunities for persons interested in teaching community workshops which cover prevention, early detection, treatment and resources.  If you enjoy helping others and are interested in volunteering, <strong>please contact Jennifer Kennedy at 276-523-4202 or email her at jennifer.kennedy@meoc.org.</strong><br>
+Mountain Empire Older Citizens, Inc. is an equal opportunity employer.  EEO-VET-AA-Older Workers.<br></p>
+    <center>
+            <h5>Volunteer Opportunities Availale Contact:</h5><p> 
+             Nicky Fleenor<br>
+                Phone:276-523-4202<br>
+                Toll Free:800-252-6362<br>
+                Email: nfleenor@meoc.org<br>
+               </p>
+    </center>
+      <h1>Employment at MEOC!</h1>
+      <h2>MEOC RN or Exprieced LPN</h2>
+      <p><strong>Location:  RN or Experienced LPN, Big Stone Gap, VA</strong></p>
+      <p>Mountain Empire Older Citizens Program for All Inclusive Care of the Elderly (PACE) is accepting applications for a RN or Experienced LPN. RN or Experienced LPN needed for Mountain Empire Older Citizens Program of All Inclusive Care for the Elderly. The nurse will triage after-hours calls from patients, make home visits to assess and treat patients, schedule patients for clinic visits and work in the medical clinic. The nurse will be on call an average of 7 days per month, sharing call with three other nurses. The nurse will join a clinical team that includes two RNs, three LPNs, one NP and one MD. The medical team is part of a larger interdisciplinary group that works together to care for older adults with chronic illnesses who live at home and need help with activities of daily living. Along with the physician, nurse practitioner and registered nurse, the interdisciplinary team includes a dietician, pharmacist, social worker, physical therapist, occupational therapist, home care coordinator, transportation specialist, recreation director and PACE center manager. This is a fulltime, salaried position with generous leave and fringe benefits. Must complete online application and upload resume at https://meoc.ninjagig.com. <strong>For more information, contact Tony Lawson at tlawson@meoc.org or 276-523-0599</strong>. No "barrier crime" convictions (See § 32.1-126.01 and §32.1-162.9:1 and §63.2‐1719 of the Code of Virginia for a complete list). MEOC is an equal opportunity employer, and gives preference to older workers. EEO/VET/AA/Older Worker.<br>
+MEOC is a Drug Free Workplace and ongoing compliance with the Drug and Alcohol Testing Program is mandatory. All employees are subject to Pre-Employment and Reasonable Suspicion testing. Some departments also require Random and Post Accident testing. MEOC has a zero tolerance Drug and Alcohol Policy.</p>
+<a href="https://meoc.ninjagig.com/jobs/prn-licensed-practical-nurse-or-rn-registered-nurse/"><strong>(Apply Online Now)</strong></a>
+<p></p>
+  <h2>MEOC PRN Licensed Practical Nurse (LPN) or Registered Nurse </h2> 
+  <p><strong>Location:  PRN Licensed Practical Nurse (LPN) or Registered Nurse, Big Stone Gap, VA</strong></p>
+  <p>Mountain Empire Older Citizens Program for All Inclusive Care of the Elderly (PACE) is accepting applications for a PRN Licensed Practical Nurse (LPN) or Registered Nurse . PRN Licensed Practical Nurse (LPN) or Registered Nurse needed for Mountain Empire Older Citizens Program of All Inclusive Care for the Elderly. The nurse will triage after-hours calls from patients, make home visits to assess and treat patients, schedule patients for clinic visits and work in the medical clinic. The nurse will join a clinical team that includes one RN, five LPNs, one NP and one MD. The medical team is part of a larger interdisciplinary group that works together to care for older adults with chronic illnesses who live at home and need help with activities of daily living. Along with the physician, nurse practitioner and registered nurse, the interdisciplinary team includes a dietician, pharmacist, social worker, physical therapist, occupational therapist, home care coordinator, transportation specialist, recreation director and PACE center manager. Please apply online at meoc.ninjagig,com.<strong> For more information, contact Tony Lawson at tlawson@meoc.org or 276-523-0599.</strong> No "barrier crime" convictions (See § 32.1-126.01 and §32.1-162.9:1 and §63.2‐1719 of the Code of Virginia for a complete list)..<br>
+MEOC is a Drug Free Workplace and ongoing compliance with the Drug and Alcohol Testing Program is mandatory. All employees are subject to Pre-Employment and Reasonable Suspicion testing. Some departments also require Random and Post Accident testing. MEOC has a zero tolerance Drug and Alcohol Policy.<br>
+Mountain Empire Older Citizens is an equal opportunity provider and employer. Must complete online application and upload resume at www.meoc.org. Mountain Empire Older Citizens, Inc. is an equal opportunity employer. EEO-VET-AA-Older Workers.<br> </p>
+  <a href="https://meoc.ninjagig.com/jobs/prn-licensed-practical-nurse-or-rn-registered-nurse/"><strong>(Apply Online Now)</strong></a>
+<p></p>
+<h2>MEOC PACE Personal Care Aide (PCA) or Certified Nursing Assistant (CNA)</h2>
+<p><strong>Location:  PACE ADHC, Big Stone Gap, VA</strong></p>
+<p>Mountain Empire Older Citizens Program for All Inclusive Care of the Elderly (PACE) is accepting applications for Personal Care Aides (PCA) and Certified Nursing Assistants (CNA) to provide personal care services in the MEOC PACE Adult Day Health Center (ADHC) in Big Stone Gap, VA.<br>
+We are seeking PCAs and CNAs who are willing to work in an Adult Day Health Care setting and have at least one year experience in caring for the frail elderly.<br>
+<strong>These are hourly positions with the starting wage at $8.25 per hour.</strong><br>
+You MUST visit <a href="https://meoc.ninjagig.com/jobs/meoc-personal-care-aides-and-cnas/"><strong>(https://meoc.ninjagig.com/jobs/meoc-personal-care-aides-and-cnas/)</strong></a> to DOWNLOAD PCA Application Forms Pkg which MUST be printed, completed and delivered/UPLOADED to MEOC along with the online application for further processing of your application to occur.  IT IS REQUIRED that you download this package, print it, complete it and return it with your application, either by UPLOAD on this webite or via mail or in person.  Instructions for completing the package are in the package.<br>
+Completion of online application is required.<br>
+No "barrier crime" convictions (See §32.1-126.01 and §32.1-162.91:1 and §63.2-1719 of the Code of Virginia for a complete list).<br>
+<strong>For more information contact Donna Susong, RN, PACE Center Manager or Judy Roberts at 276-523-0599 or 866-793-7223 or by email at dsusong@meoc.org or jroberts@meoc.org. Mountain Empire Older Citizens is an equal opportunity provider and employer.</strong><br>
+No "barrier crime" convictions (See § 32.1-126.01 and §32.1-162.9:1 and §63.2‐1719 of the Code of Virginia for a complete list)..<br>
+MEOC is a Drug Free Workplace and ongoing compliance with the Drug and Alcohol Testing Program is mandatory. All employees are subject to Pre-Employment and Reasonable Suspicion testing. Some departments also require Random and Post Accident testing. MEOC has a zero tolerance Drug and Alcohol Policy.<br>
+Must complete online application and upload resume at <a href="https://meoc.ninjagig.com/jobs"><strong>(https://meoc.ninjagig.com/jobs)</strong></a>.   Mountain Empire Older Citizens, Inc. is an equal opportunity employer.  EEO-VET-AA-OLDER Workers.<br></p>
+<h2>MEOC TRANSIT: EEO/NET/AA/OLDER WORKER</h2>
+<h3>Public Transit Bus Drivers</h3>
+<p>20-40 hours per week - Start $7.50/hour.  $7.75/hour at six-months.  $8.25/hour at 12 months with satisfactory performance.  Must obtain CDT by 12th month for that raise.<br> 
+Mountain Empire Older Citizens is an equal opportunity provider and employer.</p>
+<a href="https://meoc.ninjagig.com/jobs/public-transit-bus-driver/"><strong>Public Transit Bus Driver</strong></a><br>
+<a href="https://s3-us-west-2.amazonaws.com/ng-uploads/56c673fd-8700-4977-a59a-ca52405952d6.pdf"><strong>PDF:Transit Application Forms</strong></a><br>
+<p></p>
+<p></p>
+<p></p>
 			<h1>History of MEOC</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/AllAges.png" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
