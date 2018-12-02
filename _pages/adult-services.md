@@ -336,20 +336,20 @@ h1, h2 {
 						Read More
 					</a>
 			<h1>Insurance Counselling</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+										<img width="135" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/insurancemeoc-135x150.jpg" alt="" />											
+		<p>Individual insurance counseling and assistance is available through MEOC's Virginia Insurance Counseling and Assistance Program (VICAP).</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Local Long Term Care Ombudsman</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/ombudsmanphoto3-150x150.jpg" alt="" />											
+		<p>Receives, investigates and works to resolve complaints made by or on behalf of older persons in long-term care facilities or receiving long-term care services in the community.  </p>		
 			<a href="#" role="button">
 						Read More
 					</a>
 			<h1>Nutrition</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+										<img width="150" height="143" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/wellness-150x143.png" alt="" />											
+		<p>Supporting the health, well-being and independence of older adults and family caregivers is central to MEOC's mission of keeping at -risk elderly at home in their own communities as long as possible.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
@@ -361,7 +361,7 @@ h1, h2 {
 					</a>
 			<h1>S.N.A.P.</h1>		
 										<img width="299" height="215" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/SNAP.png" alt="" />											
-		<p>The SNAP Outreach Program is designed to find individuals who may be eligible and make the application process as easy as possible for them.  MEOC SNAP Outreach pre-screens individuals,  completes SNAP applications for those who appear to be eligible, delivers applications to local Departments of Social Services (DSS) and works with applicants to ensure that all supportung documentation is provided to the DSS eligibility worker.</p>		
+		<p>The SNAP Outreach Program is designed to find individuals who may be eligible and make the application process as easy as possible for them.  </p>		
 			<a href="#" role="button">
 						Read More
 					</a>
