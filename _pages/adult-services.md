@@ -265,10 +265,9 @@ h1, h2 {
 <button id="ardcBtn">Read More</button>
 </center>
 <!-- The Modal -->
-    <!-- The Modal -->
-        <!-- Modal content -->
-            &times;
-      <h1>Adult Day Health Care</h1>
+    <!-- Modal content -->
+        &times;
+        <h1>Adult Day Health Care</h1>
         <p>Adult Day Health Care allows families to stay together by assisting them in caring for their loved ones.  It enables many people to live in the community and to avoid an unnecessary move into a nursing facility.</p>
       <h2>Hours</h2>
       <p>Mountain Empire PACE offers Adult Day Health Care in Big Stone Gap Monday through Friday from 8:30 a.m. - 4:30 p.m.</p>
