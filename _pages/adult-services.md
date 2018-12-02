@@ -361,7 +361,7 @@ h1, h2 {
 					</a>
 			<h1>S.N.A.P.</h1>		
 										<img width="299" height="215" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/SNAP.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+		<p>The SNAP Outreach Program is designed to find individuals who may be eligible and make the application process as easy as possible for them.  MEOC SNAP Outreach pre-screens individuals,  completes SNAP applications for those who appear to be eligible, delivers applications to local Departments of Social Services (DSS) and works with applicants to ensure that all supportung documentation is provided to the DSS eligibility worker.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
