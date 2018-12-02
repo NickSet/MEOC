@@ -136,15 +136,142 @@ h1, h2 {
 			<h1>Healthy Families</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/HealthyFamilies1-150x150.jpg" alt="" />											
 		<p>Healthy Families for Southwest Virginia provides information and supportive services to first-time parents in Wise, Lee, and Scott Counties and the City of Norton.</p>		
+			<style>
+#HFBtn:hover {
+    background: #008000;
+}
+#HFBtn {
+    background: #0f6606;
+    color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
+}
+</style>
+<center>
+<button id="HFBtn">Read More</button>
+</center>
+<!-- The Modal -->
+  <!-- Modal content -->
+      &times;
+      <h1>Healthy Families</h1>
+	   <p>Healthy Families for Southwest Virginia provides information and supportive services to first-time parents in Wise, Lee, and Scott Counties and the City of Norton.</p>
+	   <p>All first-time parents qualify for a free Welcome Baby Package filled with pregnancy and/or parenting information, samples of baby products and a welcome gift.</p>
+	   <p> Healthy Families is a voluntary program that provides a family with a home visitor that is available to answer questions, calm fears, provide development and health information, support, and connect parents with resouces located in their community.  Home visitors assist parents in discovering ways to help their child be the very best that he or she can be. </p>
+	   <p></p>
+	   <h1>Parents are their child's first teacher</h1>
+	   <h2>What can home visitors help new parents with?</h2>
+	   <ul>
+			<li>Promoting positive parent-child relationships.</li>
+			<li>Promoting healthy childhood growth and development using the most current brain development information.</li>
+			<li>Increasing school readiness by providing books to children and show parents things they can do with their child to help child development, even the impact of play.</li>
+			<li>Parent "Get-togethers" that are not only educational but also include fun activities, a chance to meet other first-time parents, on-site childcare available if needed during the meeting.</li>
+			<li>Transportation provided or arranged to doctor visits, parent "get-togethers," other important appointments.</li>
+	   </ul>
+	   <h2>Pre-natal and Post-natal Care</h2>
+	   <p>Parents can access the program pre-natal or post-natal through their OB/GYN's office, in the hospital at the time of their baby's birth or through self referral.  Look for the self referral links located above on the right side of this webpage.</p>
+	   <ul>
+			<li>Fees: No Charge</li>
+			<li>Eligibility: First Time Parent</li>
+			<li>Intake Procedure: Referrals from OB/GYN offices, Local hospitals, councilers, or self-referral</li>
+			<li>Service Area: Scott,Lee, and Wise Counties and the City of Norton</li>
+	   </ul>
+	   <p>For more information, contact:</p>
+       <center>
+            <center><h4><b>Janie Dockery</b></h4> 
+            <p>Mountain Empire Older Citizens, Inc.<br>
+                P.O. Box 888<br>
+                Big Stone Gap, Virginia  24219<br>
+                276-523-4202<br>
+                Toll Free:  1-800-252-6362<br>
+                <a href="mailto:jdockery@meoc.org">jdockery@meoc.org</a><br></p>
+	   <h2>Links</h2>
+	   <ul>
+			<li><a href="http://meoc.org/Healthy%20Families%20Brochure.pdf">Healthy Families Brochure</a></li>
+			<li><a href="http://meoc.org/Healthy%20Families%20Flyer.pdf">Healthy Families Flyer</a></li>
+			<li><a href="http://meoc.org/postnatal.pdf">Postnatal Self Referral Form</a></li>
+			<li><a href="http://meoc.org/prenatal.pdf">Prenatal Self Referral Form</a></li>
+	   </ul>
 			<h1>KinCare</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/KinCare1-150x150.jpg" alt="" />											
 		<p>KinCare provides services, support and assistance specifically to grandparents and/or other relative caregivers who are acting as surrogate parents or who have custody of relative children.</p>		
-			<a href="#" role="button">
-						Read More
-					</a>
+			<style>
+#KCBtn:hover {
+    background: #008000;
+}
+#KCBtn {
+    background: #0f6606;
+    color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
+}
+</style>
+<center>
+<button id="KCBtn">Read More</button>
+</center>
+<!-- The Modal -->
+  <!-- Modal content -->
+      &times;
+      <h1>Kin Care</h1>
+		<h2>A Brookdale Foundation Funded Program</h2>
+		<p>KinCare provides services, support and assistance specifically to grandparents and/or other relative caregivers who are acting as surrogate parents or who have custody of relative children. Services include care coordination, monthly support groups, events, back to school supplies, counseling/case management, legal assistance, parenting education and information, advocacy, and information and referral.  </p>
+		<p>There is a growing need for KinCare service in our region as we are witnessing a huge increase in the number of children being raised by their grandparents or other relatives.   There are many reasons why children are not with their biological parents such as: substance abuse by the parent(s); abuse or neglect of the child; parent(s) incarceration; parent(s) mental illness; abandonment of the child; death of parent(s); divorce of parent(s); lack of parenting skills; inability to provide care for child; illness of parent(s).  Children in the KinCare Program may be in the caregiver's home for a variety of reasons, such as:  as part of the formal foster care system (applied to be a foster parent and child is placed by Department of Social Services); in the informal foster care (placed with a relative by parent(s) or Department of Social Services); legal custody of the child has been appointed to the caregiver; or the relative child has been adopted by the relative caregiver.  If children are not part of the formal foster care system their grandparents do not receive governmental financial support for their care nor any of the other services available to foster care families.</p>
+	   <ul>
+			<li>Fees: No Charge</li>
+			<li>Eligibility: Must be full-time caregivers of relative children.  Relative child must live with caregiver and caregiver provides primary care of the child. </li>
+			<li>Intake Procedure: Walk-ins and telephone referrals accepted.</li>
+			<li>Service Area: Scott,Lee, and Wise Counties and the City of Norton</li>
+	   </ul>
+	   <p>For more information, contact:</p>
+       <center>
+            <center><h4><b>Patty Roberts</b></h4> 
+            <p>Mountain Empire Older Citizens, Inc.<br>
+                P.O. Box 888<br>
+                Big Stone Gap, Virginia  24219<br>
+                (276) 523-4202<br>
+                Toll Free:  1-800-252-6362<br>
+                <a href="mailto:proberts@meoc.org">proberts@meoc.org</a><br></p>
+	   <h2>Links</h2>
+	   <ul>
+			<li><a href="https://www.aarp.org/home-family/friends-family/">AARP home and family</a></li>
+			<li><a href="http://www.brookdalefoundation.org/RAPP/rapp.html">Brookdale Foundation</a></li>
+			<li><a href="https://www.fosteringconnections.org/">Fostering Connections</a></li>
+	   </ul>
 			<h1>Foster Grandparents Program</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/Children.png" alt="" />											
 		<p>The MEOC Foster Grandparent Program places eligible senior citizens in schools and Head Start classrooms working one-on-one with children under the direction of the teacher. </p>		
-			<a href="#" role="button">
-						Read More
-					</a>
+			<style>
+#FGBtn:hover {
+    background: #008000;
+}
+#FGBtn {
+    background: #0f6606;
+    color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
+}
+</style>
+<center>
+<button id="FGBtn">Read More</button>
+</center>
+<!-- The Modal -->
+  <!-- Modal content -->
+      &times;
+      <h1>Kin Care</h1>
+		<p>The MEOC Foster Grandparent Program places eligible senior citizens in schools and Head Start classrooms working one-on-one with children under the direction of the classroom teacher.  Foster Grandparents spend quality time with these students helping them with letters and numbers, reading, singing, mentoring and modeling proper behavior.</p>
+		<p>Seniors with a love for children and willing to devote 15-40 hours per week are encouraged to call for information and an application.  The program currently has partnerships with dozens of educational programs in Wise, Lee, and Scott Counties and the City of Norton.</p>
+		<p>Foster Grandparents must be at least 55 years of age with a limited income.  Foster Grandparents will receive a tax-free monthly stipend for their service, which does not affect Medicare/Medicaid or Social Security, or benefits such as food stamps, rental assistance or federal fuel assistance.  They receive earned annual leave time, holiday pay and transportation reimbursement, an annual physical exam and supplemental insurance while they are at their sites.  For additional information</p>
+		<p>For more information, contact:</p>
+       <center>
+            <center><h4><b>Melissa Reifert</b></h4> 
+            <p>Mountain Empire Older Citizens, Inc.<br>
+                P.O. Box 888<br>
+                Big Stone Gap, Virginia  24219<br>
+                276-523-4202<br>
+                Toll Free:  1-800-252-6362<br>
+                <a href="mailto:Melissa.Reifert@meoc.org">Melissa.Reifert@meoc.org</a><br></p>
