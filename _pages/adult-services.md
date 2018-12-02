@@ -246,11 +246,49 @@ h1, h2 {
                 <a href="mailto:pstewart@meoc.org">pstewart@meoc.org</a><br></p>
         </center>
 			<h1>A.D.R.C</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
-			<a href="#" role="button">
-						Read More
-					</a>
+										<img width="400" height="309" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/adrc_logo.jpg" alt="" srcset="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/adrc_logo.jpg 400w, http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/adrc_logo-300x232.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />											
+		<p>Mountain Empire Older Citizens is an <a href="http://www.adrc-tae.org/tiki-index.php?page=HomePage" target="_blank" rel="noopener">Aging and Disability Resource Center (ADRC)</a>.  ADRCs serve as single points of entry into the long-term care system for older adults and people with disabilities and are sometimes referred to as "one-stop shops" or "no wrong door" systems.</p>		
+			<style>
+#ardcBtn:hover {
+    background: #008000;
+}
+#ardcBtn {
+    background: #0f6606;
+    color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
+}
+</style>
+<center>
+<button id="ardcBtn">Read More</button>
+</center>
+<!-- The Modal -->
+    <!-- The Modal -->
+        <!-- Modal content -->
+            &times;
+      <h1>Adult Day Health Care</h1>
+        <p>Adult Day Health Care allows families to stay together by assisting them in caring for their loved ones.  It enables many people to live in the community and to avoid an unnecessary move into a nursing facility.</p>
+      <h2>Hours</h2>
+      <p>Mountain Empire PACE offers Adult Day Health Care in Big Stone Gap Monday through Friday from 8:30 a.m. - 4:30 p.m.</p>
+      <h2>Fees</h2>
+      <p>Private pay.  Medicaid and Veteran's Administration reimbursement is available for eligible individuals.</p>
+      <h2>Eligibility</h2>
+      <p>Adults 18 years of age and older in need of supervision during the day.</p>
+      <h2>Contact</h2>
+       <center>
+            <center><h4><b>Pam Stewart</b></h4> 
+            <p>Enrollment Coordinator</p></center>
+            <p>Mountain Empire Older Citizens, Inc.<br>
+             P.O. Box 888<br>
+                Big Stone Gap, Virginia  24219<br>
+                276-523-0599<br>
+                Toll Free:  866-793-7223<br>
+                Medical Records Fax: 276-523-6480<br>
+                Administrative Fax:  276-523-6483<br>
+                <a href="mailto:pstewart@meoc.org">pstewart@meoc.org</a><br></p>
+        </center>
 			<h1>Alzheimer's Support Group</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
