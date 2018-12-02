@@ -360,7 +360,7 @@ h1, h2 {
 						Read More
 					</a>
 			<h1>S.N.A.P.</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
+										<img width="299" height="215" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/SNAP.png" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<a href="#" role="button">
 						Read More
