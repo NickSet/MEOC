@@ -356,9 +356,29 @@ h1, h2 {
 			<h1>Senior Wellness Program</h1>		
 										<img width="149" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/SWP.png" alt="" />											
 		<p>Supporting the health, well-being and independence of older adults and family caregivers is central to MEOC's mission of keeping at -risk elderly at home in their own communities as long as possible.</p>		
-			<a href="#" role="button">
-						Read More
-					</a>
+			<style>
+#seniorWellnessBtn:hover {
+    background: #008000;
+}
+#seniorWellnessBtn {
+    background: #0f6606;
+    color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
+}
+</style>
+<center>
+<button id="seniorWellnessBtn">Read More</button>
+</center>
+<!-- The Modal -->
+  <!-- Modal content -->
+      &times;
+      <h1>Senior Wellness Program</h1>
+        <p>Supporting the health, well-being and independence of older adults and family caregivers is central to MEOC's mission of keeping at -risk elderly at home in their own communities as long as possible.</p>
+        <p>Read on to learn more about MEOC services that provide:  nourishing meals in the homes of older adults or in group settings; that encourage the achieving and maintaining healthy life-styles through education, physical exercise, as well as socialization and recreation; and job training opportunities for qualified older individuals that may improve financial independence.</p>
+        <p>Making life a little better for older adults and family caregivers is what MEOC is all about.</p>
 			<h1>S.N.A.P.</h1>		
 										<img width="299" height="215" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/SNAP.png" alt="" />											
 		<p>The SNAP Outreach Program is designed to find individuals who may be eligible and make the application process as easy as possible for them.  </p>		
@@ -386,6 +406,3 @@ h1, h2 {
         <ul>
             <li>For more information, contact Jennifer Spangler at <a href="jspangler@meoc.org.">jspangler@meoc.org.</a></li>
         </ul>
-			<a href="#" role="button">
-						Read More
-					</a>
