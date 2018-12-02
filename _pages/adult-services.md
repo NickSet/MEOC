@@ -355,7 +355,7 @@ h1, h2 {
 					</a>
 			<h1>Senior Wellness Program</h1>		
 										<img width="149" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/SWP.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+		<p>Supporting the health, well-being and independence of older adults and family caregivers is central to MEOC's mission of keeping at -risk elderly at home in their own communities as long as possible.</p>		
 			<a href="#" role="button">
 						Read More
 					</a>
