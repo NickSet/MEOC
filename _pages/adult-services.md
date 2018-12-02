@@ -383,7 +383,6 @@ h1, h2 {
       &times;
       <h1>Elder Rights and Security Services</h1>
         <p>Official 2011 poverty rates provided by the University of Virginia's Weldon Cooper Center for Public Service are Lee County 27.6%, Scott County 18.7%, and Wise County 22.8%.  Despite high poverty rates, the SNAP benefit is under-utilized in MEOC's service area.  Older persons, in particular, seem unwilling to jump through SNAP application hoops in order to qualify for what they perceive to be a very low amount of assistance.  The SNAP Outreach Program is designed to find individuals who may be eligible and make the application process as easy as possible for them.  MEOC SNAP Outreach pre-screens individuals,  completes SNAP applications for those who appear to be eligible, delivers applications to local Departments of Social Services (DSS) and works with applicants to ensure that all supportung documentation is provided to the DSS eligibility worker.</p>
-        <p>For more information, contact Jennifer Spangler at jspangler@meoc.org. </p>
         <ul>
             <li>For more information, contact Jennifer Spangler at <a href="jspangler@meoc.org.">jspangler@meoc.org.</a></li>
         </ul>
