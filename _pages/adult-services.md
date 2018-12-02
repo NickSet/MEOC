@@ -354,7 +354,7 @@ h1, h2 {
 						Read More
 					</a>
 			<h1>Senior Wellness Program</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
+										<img width="149" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/SWP.png" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
 			<a href="#" role="button">
 						Read More
