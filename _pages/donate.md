@@ -119,13 +119,13 @@ h1, h2 {
             <label for="email"> Email</label>
             <input type="text" id="email" name="email" placeholder="john@example.com">
             <label for="adr"> Address</label>
-            <input type="text" id="adr" name="address" placeholder="542 W. 15th Street">
+            <input type="text" id="adr" name="address" placeholder="1 College Ave">
             <label for="city"> City</label>
-            <input type="text" id="city" name="city" placeholder="New York">
+            <input type="text" id="city" name="city" placeholder="Wise">
                 <label for="state">State</label>
-                <input type="text" id="state" name="state" placeholder="NY">
+                <input type="text" id="state" name="state" placeholder="VA">
                 <label for="zip">Zip</label>
-                <input type="text" id="zip" name="zip" placeholder="10001">
+                <input type="text" id="zip" name="zip" placeholder="12345">
             <h3>Payment</h3>
             <label for="fname">Accepted Cards</label>
             <label for="cname">Name on Card</label>
