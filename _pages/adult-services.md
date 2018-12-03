@@ -400,7 +400,7 @@ h1, h2 {
   <!-- Modal content -->
       &times;
       <h1>Faith Works</h1>
-        <p><b>Faith Works</b>FAITH WORKS is a partnership between MEOC 
+        <p><b>Faith Works</b> is a partnership between MEOC 
         and the faith community.  MEOC is guided by the philosophy of 
         asset based community development which focuses on a region’s 
         strengths and resources rather than its deficits in organizing 
