@@ -435,7 +435,7 @@ h1, h2 {
 <!-- The Modal -->
   <!-- Modal content -->
       &times;
-      <h1>Nutrition</h1>
+      <h1>Local Long Term Care Ombudsman</h1>
         <p>Receives, investigates and works to resolve complaints made by or on behalf of older persons in long-term care 
         facilities or receiving long-term care services in the community.  Serves as resource for information regarding 
         institutional and community-based long-term care services.  Complaints may be reported anonymously.</p>
