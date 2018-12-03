@@ -404,9 +404,38 @@ h1, h2 {
 			<h1>In-Home Respite Care</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/inhomerespite-150x150.jpg" alt="" />											
 		<p>In-Home Respite Services is a home-based program in which personal care aides provide relief for families providing around-the-clock care to a family member with some form of mental and/or physical impairment. Activities identified by family caregivers as being most basic and critical will be provided.</p>		
-			<a href="#" role="button">
-						Read More
-					</a>
+			<style>
+#ihrBtn:hover {
+    background: #008000;
+}
+#ihrBtn {
+    background: #0f6606;
+    color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
+}
+</style>
+<center>
+<button id="ihrBtn">Read More</button>
+</center>
+<!-- The Modal -->
+  <!-- Modal content -->
+      &times;
+      <h1>In-Home Respite Care</h1>
+        <p><b>In-Home Respite Services is a home-based program</b> in which personal care aides provide 
+        relief for families providing around-the-clock care to a family member with some form of mental 
+        and/or physical impairment.  Activities identified by family caregivers as being most basic and 
+        critical will be provided.</p>
+        <ul>
+            <li><b>Fees:</b> Sliding scale fee according to income.</li>
+            <li><b>Eligibility:</b>  Family Caregiver providing 24-hour care for adults aged 60 or older.</li>
+            <li><b>Intake Procedure:</b>   Walk-ins and telephone referrals accepted.</li>
+            <li><b>Service Area:</b>  Lee, Scott and Wise Counties, and The City of Norton.</li>
+            <li><b>Phone(s):</b> (276) 523-4202, 1-800-252-6362</li>
+            <li><b>E-Mail:</b><a href="jdillon@meoc.org"> Julia T. Dillon</a></li>
+        </ul>
 			<h1>Insurance Counselling</h1>		
 										<img width="135" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/insurancemeoc-135x150.jpg" alt="" />											
 		<p>Individual insurance counseling and assistance is available through MEOC's Virginia Insurance Counseling and Assistance Program (VICAP).</p>		
