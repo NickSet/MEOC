@@ -406,10 +406,7 @@ h1, h2 {
 		<p><b>This program is sponsored by Dominion Virginia Power and administered by the 
 		Virginia Department of Aging and Rehabilitative Services.</b></p>
 		<p><b>If you have an emergency cooling need and are interested in applying for a fan or 
-		air conditioner, please call Marsha Craiger at mcraiger@meoc.org.</b></p>
-        <ul>
-            <li><b>E-Mail:</b><a href="mcraiger@meoc.org"> Marsha Craiger</a></li>
-        </ul>
+		air conditioner, please call Marsha Craiger at <a href="mcraiger@meoc.org."> mcraiger@meoc.org</a></b></p>
 			<h1>Faith Works</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/faithworks1-150x150.jpg" alt="" />											
 		<p>FAITH WORKS is a partnership between MEOC and the faith community.  MEOC is guided by the philosophy of asset based community development which focuses on a region’s strengths and resources rather than its deficits in organizing those assets in service to others.</p>		
