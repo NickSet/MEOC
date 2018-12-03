@@ -111,7 +111,7 @@ h1, h2 {
   <!-- Modal content -->
       &times;
       <h1>Pogram/Sevices-Donation/Payment Listing</h1>
-// Example  
+// Example  <strong>This infomation is not secure!  I repeat it is not SECURE</strong>
       <form action="/action_page.php">
             <h3>Billing Address</h3>
             <label for="fname"> Full Name</label>
