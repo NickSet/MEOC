@@ -58,9 +58,9 @@ post_date: 2018-11-05 21:44:39
                 (276) 523-7433<br>
                 Toll Free:   1-888-877-6748<br>
                 TDD Users dial 711 and ask the operator to call (276)523-7433.   For more info, click HERE.</p>
-			<h1>Counselling</h1>		
+			<h1>Options Counselling</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/Counselling1-150x150.png" alt="" />											
-		<p>Mountain Empire PACE is a non-profit program.  It is funded through a contract with Medicaid and Medicare.  In the contract, Mountain Empire PACE agrees to provide every service covered by Medicaid and Medicare plus other services the IDT decides are necessary.</p>		
+		<p><strong>Options Counseling</strong> is an interactive decision-support process whereby individuals, with support from family members, caregivers, and/or significant others, are supported in their deliberations to make informed long-term support choices in the context of the individual's preferences, strengths, needs, values, and individual circumstances.</p>		
 <style>
 h4 {
 	color: #0f6606;
