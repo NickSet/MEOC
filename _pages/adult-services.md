@@ -453,9 +453,38 @@ h1, h2 {
 			<h1>Elder Abuse Prevention</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
-			<a href="#" role="button">
-						Read More
-					</a>
+			<style>
+#eapBtn:hover {
+    background: #008000;
+}
+#eapBtn {
+    background: #0f6606;
+    color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
+}
+</style>
+<center>
+<button id="eapBtn">Read More</button>
+</center>
+<!-- The Modal -->
+  <!-- Modal content -->
+      &times;
+      <h1>Elder Abuse Prevention</h1>
+        <p><b>Services are provided</b> to older persons and their families who are at risk of 
+        abuse, neglect, or exploitation.  Works hand in hand with Adult Protective Services of 
+        local Departments of Social Services, and follows state DSS guidelines for anonymous 
+        reporting of abuse </p>
+        <ul>
+            <li><b>Fees:</b> No charge.  Contributions accepted.</li>
+            <li><b>Eligibility:</b>  Persons aged 60+</li>
+            <li><b>Intake Procedure:</b>   Walk-ins and telephone referrals accepted. Anonymity protected by request.</li>
+            <li><b>Service Area:</b>  Lee, Scott and Wise Counties, and The City of Norton.</li>
+            <li><b>Phone(s):</b> (276) 523-4202, 1-800-252-6362</li>
+            <li><b>E-Mail:</b> Debbie Collier at <a href="dcollier@meoc.org"> dcollier@meoc.org</a></li>
+        </ul>
 			<h1>Emergency Fuel Fund</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
