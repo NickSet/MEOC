@@ -413,9 +413,43 @@ h1, h2 {
 			<h1>Congregate Meals</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
-			<a href="#" role="button">
-						Read More
-					</a>
+			<style>
+#cmBtn:hover {
+    background: #008000;
+}
+#cmBtn {
+    background: #0f6606;
+    color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
+}
+</style>
+<center>
+<button id="cmBtn">Read More</button>
+</center>
+<!-- The Modal -->
+  <!-- Modal content -->
+      &times;
+      <h1>Congregate Meals</h1>
+        <p>Home delivered meal service is available to homebound, frail elderly people who can no 
+        longer prepare nutritious well-balanced meals, have no one to assist them and are at-risk 
+        of losing their ability to live independently. </p>
+		<p>Given the rural, mountainous geography, meals are delivered in a variety of ways.  Those 
+		living in remote sections of the service area may receive a two or four-week supply of frozen 
+		dinners, if able to heat and store the meals.  Those older citizens who live in more populated 
+		sections of the area, may be able to receive daily hot meals.  MEOC home delivered meal service 
+		consists of one meal per day, five days per week.</p>
+		<p><b>Close to 900 older persons in MEOC's service area receive home delivered meals yearly.</b></p>
+        <ul>
+            <li><b>Fees:</b> No charge.  Contributions accepted.</li>
+            <li><b>Eligibility:</b>  Persons aged 60+ and unable to remain safely at home without assistance.</li>
+            <li><b>Intake Procedure:</b>   Walk-ins and telephone referrals accepted.</li>
+            <li><b>Service Area:</b>  Lee, Scott and Wise Counties, and The City of Norton.</li>
+            <li><b>Phone(s):</b> (276) 523-4202, 1-800-252-6362</li>
+            <li><b>E-Mail:</b><a href="carrie.stallard@meoc.org"> Carrie Stallard</a></li>
+        </ul>
 			<h1>Elder Abuse Prevention</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
