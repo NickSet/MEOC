@@ -528,7 +528,7 @@ h1, h2 {
         </ul>
         <h2>2013 37th Anuual Emergency Fuel Fund Walkathon Community Sponsors</h2>
        <p>
-		n Honor and Memory of Larry Adams<br>
+		In Honor and Memory of Larry Adams<br>
 		<a href="http://www.heritage-hall.org/our-facilities/big-stone-gap.aspx">Heritage Hall of Big Stone Gap, Virginia</a><br>
 		<a href="http://www.redrivercoal.com/">Humphreys Enterprises/Red River Coal</a><br>
 		<a href="https://www.dom.com/">Dominion Foundation</a><br>
