@@ -380,9 +380,36 @@ h1, h2 {
 			<h1>Communication Referral</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
-			<a href="#" role="button">
-						Read More
-					</a>
+			<style>
+#crBtn:hover {
+    background: #008000;
+}
+#crBtn {
+    background: #0f6606;
+    color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
+}
+</style>
+<center>
+<button id="crBtn">Read More</button>
+</center>
+<!-- The Modal -->
+  <!-- Modal content -->
+      &times;
+      <h1>Communication Referral</h1>
+        <p><b>Trained staff</b> offer information, assess individual needs, identify services needed, link 
+        individuals to needed services at MEOC or elsewhere in the community, and follow up as needed. </p>
+		<p>MEOC is an Aging and Disabilities Resource Center whose goal is to meet all the requirements 
+		associated with that designation and provides these services to older persons as well as to 
+		adults with disabilities 18 years of age and older, families and caregivers.  MEOC receives 
+		referrals for assistance from many sources including individuals themselves, family members, 
+		neighbors, ministers, hospitals, home health agencies and others.</p>
+        <ul>
+            <li><b>Fees:</b> No fee.</li> 
+        </ul>
 			<h1>Congregate Meals</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
