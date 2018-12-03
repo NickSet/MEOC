@@ -329,10 +329,10 @@ h1, h2 {
         <p>Second Thursday every other month (February - April - June - August - October and December) at 12:30 p.m. at Mountain Empire Older Citizens in Big Stone Gap.<br>  Fourth Tuesday every other month (February, April, June, August, October and December) at 12:30 p.m. at the First Christian Church in Pennington Gap.</p>
         <ul>
             <li>Fees: No charge.</li>
-            <li>Eligibility: No restrictions.</li>
+            <li>Persons aged 60+ and dependent in at least two activities of daily living.</li>
             <li>Intake Procedure:  Walk-ins and telephone referrals accepted.</li>
             <li>Service Area:  Lee, Scott and Wise Counties, and The City of Norton.</li>
-            <li>Email: <a href="mailto:jtrivett@meoc.org">Julia Dillon</a></li>
+            <li>Email: <a href="mailto:jmiller@meoc.org">Judy Miller</a></li>
             <li>Phone(s): (276) 523-4202, 1-800-252-6362</li>
         </ul>
 			<h1>Care Giver Support Groups</h1>		
