@@ -488,9 +488,61 @@ h1, h2 {
 			<h1>Emergency Fuel Fund</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
-			<a href="#" role="button">
-						Read More
-					</a>
+			<style>
+#ffBtn:hover {
+    background: #008000;
+}
+#ffBtn {
+    background: #0f6606;
+    color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
+}
+</style>
+<center>
+<button id="ffBtn">Read More</button>
+</center>
+<!-- The Modal -->
+  <!-- Modal content -->
+      &times;
+      <h1>Emergency Fuel Fund</h1>
+        <p>Funded entirely by local donations of cash, this service assists people 60 years of age 
+        and older who are trapped in winter emergency situations with no money to buy fuel or pay 
+        fuel bills. Designed to prevent needy persons from having to choose between paying for fuel, 
+        food or medicine. </p>
+		<p>The major fund-raiser, the annual <a href="http://www.meoc.org/walkathonmeoc.htm">Walkathon</a>, 
+		is held the first Sunday afternoon of May each year. Churches sponsor Hearth-warming Sunday in February 
+		each year. This is one of MEOC’s longest running programs and it assists over 1100 elderly people 
+		each winter. The annual walkathon raises approximately $165,000 in this one-day event and 
+		is a tribute to the community support and involvement cultivated by MEOC over the years 
+		and the cultural tradition of the region to meet basic needs of its older people.</p>
+        <ul>
+            <li><b>Fees:</b> No charge.  Contributions accepted.</li>
+            <li><b>Eligibility:</b>  Persons aged 60+ in an emergency situation.</li>
+            <li><b>Intake Procedure:</b>   Walk-ins and telephone referrals accepted.</li>
+            <li><b>Service Area:</b>  Lee, Scott and Wise Counties, and The City of Norton.</li>
+            <li><b>Phone(s):</b> (276) 523-4202, 1-800-252-6362</li>
+            <li><b>E-Mail:</b><a href="mcraiger@meoc.org"> Marsha Craiger</a></li>
+        </ul>
+        <h2>2013 37th Anuual Emergency Fuel Fund Walkathon Community Sponsors</h2>
+       <p>
+		n Honor and Memory of Larry Adams<br>
+		<a href="http://www.heritage-hall.org/our-facilities/big-stone-gap.aspx">Heritage Hall of Big Stone Gap, Virginia</a><br>
+		<a href="http://www.redrivercoal.com/">Humphreys Enterprises/Red River Coal</a><br>
+		<a href="https://www.dom.com/">Dominion Foundation</a><br>
+		Lee County Community Foundation<br>
+		<a href="http://www.nortoncityschools.org/nems/nems.htm">Norton City Schools</a><br>
+		<a href="http://www.swvaunitedway.org/">United Way of Southwest Virginia</a><br>
+		<a href="http://www.wisecounty.org/bos/bos.html">Wise County Board of Supervisors</a><br>
+		<a href="http://www.alphanr.com/Pages/Default.aspx">Alpha Natural Resources</a><br>
+		Oliver Coal Sales<br>
+		<a href="http://www.wise.virginia.edu/">University of Virginia's College at Wise</a><br>
+		<a href="http://www.lge-ku.com/rsc/ku/default.asp">Old Dominion Power Company</a><br>
+		<a href="http://www.fasmart.com/">FasMart</a><br>
+		<a href="https://www.wellsfargo.com/">Wells Fargo</a><br>
+		Staff of Mountain Empire Older Citizens, Inc.<br></p>
 			<h1>Family Support Services</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
