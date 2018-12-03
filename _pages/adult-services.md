@@ -380,9 +380,54 @@ h1, h2 {
 			<h1>Faith Works</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/faithworks1-150x150.jpg" alt="" />											
 		<p>FAITH WORKS is a partnership between MEOC and the faith community.  MEOC is guided by the philosophy of asset based community development which focuses on a region’s strengths and resources rather than its deficits in organizing those assets in service to others.</p>		
-			<a href="#" role="button">
-						Read More
-					</a>
+			<style>
+#fwBtn:hover {
+    background: #008000;
+}
+#fwBtn {
+    background: #0f6606;
+    color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
+}
+</style>
+<center>
+<button id="fwBtn">Read More</button>
+</center>
+<!-- The Modal -->
+  <!-- Modal content -->
+      &times;
+      <h1>Faith Works</h1>
+        <p><b>Faith Works</b>FAITH WORKS is a partnership between MEOC 
+        and the faith community.  MEOC is guided by the philosophy of 
+        asset based community development which focuses on a region’s 
+        strengths and resources rather than its deficits in organizing 
+        those assets in service to others.  The faith community has long 
+        been and continues to be a major asset to MEOC and those we serve.  
+        Thousands of frail, low income older persons benefit from this natural 
+        partnership which combines MEOC’s commitment to serve older persons 
+        in the greatest economic or social need with the commitment of 
+        churches and people of faith to serve “others.”  Some of the 
+        major areas in which this partnership works are MEOC’s Emergency 
+        Fuel Fund for the Elderly, which helps older persons pay electric 
+        bills and purchase fuel in winter;  Sharing Our Daily Bread, which 
+        sponsors older persons in need of home delivered meals;  Support 
+        for Family Caregivers using space provided by places of worship; 
+        MEOC’s Mountain Laurel Cancer Support and Resource Center offering 
+        financial support for travel for treatment, a card ministry and 
+        volunteering; and Home Repairs/Modifications, provided by local 
+        churches as well as mission teams, to make the homes of older 
+        persons safe, warm, dry and accessible.  Faith congregations 
+        are a repository of all kinds of good works, so individual volunteering 
+        takes many forms, including friendly visitors, a home cooked meal 
+        on the weekend, someone to accompany an older person to a doctor’s 
+        appointment, or someone to carry in wood or coal.  <b>Faith Works</b> 
+        results are substantial, measurable, often lifesaving and always life-
+        enhancing. Without this partnership, thousands in need would go un-served 
+        and many would no longer live at home in the mountains of Appalachia where 
+        they  wish to live and die.</p>
 			<h1>Foster Grandparent Program</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/fostergrandparent-150x150.jpg" alt="" />											
 		<p>The MEOC Foster Grandparent Program places eligible senior citizens in schools and Head Start classrooms working one-on-one with children under the direction of the classroom teacher.</p>		
