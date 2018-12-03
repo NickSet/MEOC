@@ -416,9 +416,37 @@ h1, h2 {
 			<h1>Local Long Term Care Ombudsman</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/ombudsmanphoto3-150x150.jpg" alt="" />											
 		<p>Receives, investigates and works to resolve complaints made by or on behalf of older persons in long-term care facilities or receiving long-term care services in the community.  </p>		
-			<a href="#" role="button">
-						Read More
-					</a>
+			<style>
+#ombBtn:hover {
+    background: #008000;
+}
+#ombBtn {
+    background: #0f6606;
+    color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
+}
+</style>
+<center>
+<button id="ombBtn">Read More</button>
+</center>
+<!-- The Modal -->
+  <!-- Modal content -->
+      &times;
+      <h1>Nutrition</h1>
+        <p>Receives, investigates and works to resolve complaints made by or on behalf of older persons in long-term care 
+        facilities or receiving long-term care services in the community.  Serves as resource for information regarding 
+        institutional and community-based long-term care services.  Complaints may be reported anonymously.</p>
+        <ul>
+            <li>Fees: No charge.</li>
+            <li>Eligibility:  Unrestrcited to persons receiving long-term care services.</li>
+            <li>Intake Procedure:  Walk-ins and telephone referrals accepted. Anonymity protected.</li>
+            <li>Service Area:  Lee, Scott and Wise Counties, and The City of Norton.</li>
+            <li>Phone(s):  (276) 523-4202, 1-800-252-6362</li>
+            <li>E-Mail:  <a href="lmavredes@meoc.org">Louis Mavredes</a></li>
+        </ul>
 			<h1>Nutrition</h1>		
 										<img width="150" height="143" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/wellness-150x143.png" alt="" />											
 		<p>Supporting the health, well-being and independence of older adults and family caregivers is central to MEOC's mission of keeping at -risk elderly at home in their own communities as long as possible.</p>		
