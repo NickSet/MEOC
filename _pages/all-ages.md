@@ -43,6 +43,7 @@ post_date: 2018-11-05 21:44:39
 		<ul>
 			<li> Intake Procedure: Telephone referrals accepted.  24-hour notice required.  More notice encouraged.</li>
 			<li> Service Area: Lee, Scott and Wise Counties, and the City of Norton
+		<p> When fililing complaint, please use the atttached form:  <a href="http://meoc.org/title6complaintform.pdf">click me</a></p>
 		<p>For more information, contact:</p>
        <center>
             <center>
