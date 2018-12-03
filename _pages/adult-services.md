@@ -386,9 +386,43 @@ h1, h2 {
 			<h1>Foster Grandparent Program</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/fostergrandparent-150x150.jpg" alt="" />											
 		<p>The MEOC Foster Grandparent Program places eligible senior citizens in schools and Head Start classrooms working one-on-one with children under the direction of the classroom teacher.</p>		
-			<a href="#" role="button">
-						Read More
-					</a>
+			<style>
+#fgpBtn:hover {
+    background: #008000;
+}
+#fgpBtn {
+    background: #0f6606;
+    color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
+}
+</style>
+<center>
+<button id="fgpBtn">Read More</button>
+</center>
+<!-- The Modal -->
+  <!-- Modal content -->
+      &times;
+      <h1>Foster Grandparent Program</h1>
+        <p><b>The MEOC Foster Grandparent Program</b> places eligible senior citizens in schools 
+        and Head Start classrooms working one-on-one with children under the direction of the 
+        classroom teacher.  Foster Grandparents spend quality time with these students helping 
+        them with letters and numbers, reading, singing, mentoring and modeling proper behavior.</p>
+		<p>Foster Grandparents must be at least 55 years of age with a limited income.  Foster 
+		Grandparents will receive a tax-free monthly stipend for their service, which does not 
+		affect Medicare/Medicaid or Social Security, or benefits such as food stamps, rental 
+		assistance or federal fuel assistance.  They receive earned annual leave time, holiday 
+		pay and transportation reimbursement, an annual physical exam and supplemental insurance 
+		while they are at their sites.</p>
+        <h2>Contact</h2>
+       <center>
+            <center><h4><b>Melissa Reifert</b></h4></center>
+            <p>Toll Free:  866-793-7223<br>
+               Local: 276-523-4202<br>
+               <a href="mailto:pstewart@meoc.org">Melissa Reifert</a><br></p>
+        </center>
 			<h1>Home Delivered Meals</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/home-delivered-meals-1-150x150.jpg" alt="" />											
 		<p>Home delivered meal service is available to homebound, frail elderly people who can no longer prepare nutritious well-balanced meals, have no one to assist them and are at-risk of losing their ability to live independently.</p>		
