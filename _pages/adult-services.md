@@ -268,26 +268,7 @@ h1, h2 {
     <!-- Modal content -->
         &times;
         <h1>Adult Day Health Care</h1>
-        <p>Adult Day Health Care allows families to stay together by assisting them in caring for their loved ones.  It enables many people to live in the community and to avoid an unnecessary move into a nursing facility.</p>
-      <h2>Hours</h2>
-      <p>Mountain Empire PACE offers Adult Day Health Care in Big Stone Gap Monday through Friday from 8:30 a.m. - 4:30 p.m.</p>
-      <h2>Fees</h2>
-      <p>Private pay.  Medicaid and Veteran's Administration reimbursement is available for eligible individuals.</p>
-      <h2>Eligibility</h2>
-      <p>Adults 18 years of age and older in need of supervision during the day.</p>
-      <h2>Contact</h2>
-       <center>
-            <center><h4><b>Pam Stewart</b></h4> 
-            <p>Enrollment Coordinator</p></center>
-            <p>Mountain Empire Older Citizens, Inc.<br>
-             P.O. Box 888<br>
-                Big Stone Gap, Virginia  24219<br>
-                276-523-0599<br>
-                Toll Free:  866-793-7223<br>
-                Medical Records Fax: 276-523-6480<br>
-                Administrative Fax:  276-523-6483<br>
-                <a href="mailto:pstewart@meoc.org">pstewart@meoc.org</a><br></p>
-        </center>
+        <p>Mountain Empire Older Citizens is an Aging and Disability Resource Center (ADRC).  ADRCs serve as single points of entry into the long-term care system for older adults and people with disabilities and are sometimes referred to as "one stop shops" or "no wrong door" systems.  ADRCs address many of the frustrations people experience when trying to find needed information, services, and supports.  ADRCs provide information about the full range of options that are available, coordinate aging and disability services, provide objective information and assistance, empower people to make informed decisions about their long term supports, and serve as convenient entry points for all public and private long term care programs and support services.  MEOC works in partnership with the Junction Center for Independent Living and a host of partners in the area in this effort.</p>
 			<h1>Alzheimer's Support Group</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
