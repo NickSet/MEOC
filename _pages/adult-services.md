@@ -421,7 +421,7 @@ h1, h2 {
             <center><h4><b>Melissa Reifert</b></h4></center>
             <p>Toll Free:  866-793-7223<br>
                Local: 276-523-4202<br>
-               <a href="mailto:pstewart@meoc.org">Melissa Reifert</a><br></p>
+               E-Mail: <a href="mailto:pstewart@meoc.org">Melissa Reifert</a><br></p>
         </center>
 			<h1>Home Delivered Meals</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/home-delivered-meals-1-150x150.jpg" alt="" />											
