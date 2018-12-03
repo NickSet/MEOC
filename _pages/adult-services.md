@@ -299,7 +299,7 @@ h1, h2 {
             <li>Eligibility: No restrictions.</li>
             <li>Intake Procedure:  Walk-ins and telephone referrals accepted.</li>
             <li>Service Area:  Lee, Scott and Wise Counties, and The City of Norton.</li>
-            <li>Email: <a href="mailto:jtrivett@meoc.org">Julia Dillon</a></li>.
+            <li>Email: <a href="mailto:jtrivett@meoc.org">Julia Dillon</a></li>
             <li>Phone(s): (276) 523-4202, 1-800-252-6362</li>
         </ul>
 			<h1>Care Coordination</h1>		
