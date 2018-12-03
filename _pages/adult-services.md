@@ -271,7 +271,7 @@ h1, h2 {
         <p>Mountain Empire Older Citizens is an Aging and Disability Resource Center (ADRC).  ADRCs serve as single points of entry into the long-term care system for older adults and people with disabilities and are sometimes referred to as "one stop shops" or "no wrong door" systems.  ADRCs address many of the frustrations people experience when trying to find needed information, services, and supports.  ADRCs provide information about the full range of options that are available, coordinate aging and disability services, provide objective information and assistance, empower people to make informed decisions about their long term supports, and serve as convenient entry points for all public and private long term care programs and support services.  MEOC works in partnership with the Junction Center for Independent Living and a host of partners in the area in this effort.</p>
 			<h1>Alzheimer's Support Group</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/alzheimers-support-150x150.jpg" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+		<p>MEOC provides bi-monthly support group meetings through its Alzheimer's/Caregiver support groups, a resource lending library for family caregivers which offers an impressive variety of informative DVDs and publications on Alzheimer's Disease and caregiving, and public advocacy on issues impacting individuals with dementia. </p>		
 			<a href="#" role="button">
 						Read More
 					</a>
