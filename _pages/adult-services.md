@@ -546,9 +546,38 @@ h1, h2 {
 			<h1>Family Support Services</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
-			<a href="#" role="button">
-						Read More
-					</a>
+			<style>
+#fsBtn:hover {
+    background: #008000;
+}
+#fsBtn {
+    background: #0f6606;
+    color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
+}
+</style>
+<center>
+<button id="fsBtn">Read More</button>
+</center>
+<!-- The Modal -->
+  <!-- Modal content -->
+      &times;
+      <h1>Family Support</h1>
+        <p><b>MEOC's Family Caregiver Support Services</b> addresses the needs of families caring for adults age 60 and older.</p>
+		<p>The infrastructure developed by MEOC includes eleven community group respite centers, an in-home respite program, adult 
+		day health care, care coordination and five caregiver support groups (including two Alzheimer’s groups, an on-line Alzheimer’s 
+		support group).  A Family Caregiver Resource Center, an annual Alzheimer’s Seminar, caregiver education programs, a quarterly 
+		newspaper, pharmacy assistance, personal care, homemaker services, transportation and home safety program are additional 
+		services available to assist caregivers.</p>
+		<p>Since 1982, the agency has placed a major emphasis on services that support and encourage family caregivers.  Since the 
+		inception of the program, thousands of family caregivers have received assistance and an average of two hundred caregivers 
+		receive assistance through the program monthly.</p>
+        <ul>
+			<li><b>Contact: <a href="http://webmail.mounet.com/scripts/webmail.exe">Alzeihmer's Caregiver Webmail</a></li>
+        </ul>
 			<h1>Fan Care</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>Many older persons without a cooling system find themselves in emergency situations during hot summer days and nights. Mountain Empire Older Citizens (MEOC) may be able to help.</p>		
