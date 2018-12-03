@@ -246,7 +246,7 @@ h1, h2 {
                 <a href="mailto:pstewart@meoc.org">pstewart@meoc.org</a><br></p>
         </center>
 			<h1>A.D.R.C</h1>		
-										<img width="400" height="309" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/adrc_logo.jpg" alt="" srcset="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/adrc_logo.jpg 400w, http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/adrc_logo-300x232.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />											
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/adrc_logo-150x150.jpg" alt="" />											
 		<p>Mountain Empire Older Citizens is an <a href="http://www.adrc-tae.org/tiki-index.php?page=HomePage" target="_blank" rel="noopener">Aging and Disability Resource Center (ADRC)</a>.  ADRCs serve as single points of entry into the long-term care system for older adults and people with disabilities and are sometimes referred to as "one-stop shops" or "no wrong door" systems.</p>		
 			<style>
 #ardcBtn:hover {
@@ -292,8 +292,16 @@ h1, h2 {
     <!-- Modal content -->
         &times;
         <h1>Alzheimer's Support Group</h1>
-        <h1>Meetings</h1>
-        <p>Mountain Empire Older Citizens is an Aging and Disability Resource Center (ADRC).  ADRCs serve as single points of entry into the long-term care system for older adults and people with disabilities and are sometimes referred to as "one stop shops" or "no wrong door" systems.  ADRCs address many of the frustrations people experience when trying to find needed information, services, and supports.  ADRCs provide information about the full range of options that are available, coordinate aging and disability services, provide objective information and assistance, empower people to make informed decisions about their long term supports, and serve as convenient entry points for all public and private long term care programs and support services.  MEOC works in partnership with the Junction Center for Independent Living and a host of partners in the area in this effort.</p>
+        <h2>Meetings</h2>
+        <p>Second Thursday every other month (February - April - June - August - October and December) at 12:30 p.m. at Mountain Empire Older Citizens in Big Stone Gap.<br>  Fourth Tuesday every other month (February, April, June, August, October and December) at 12:30 p.m. at the First Christian Church in Pennington Gap.</p>
+        <ul>
+            <li>Fees: No charge.</li>
+            <li>Eligibility: No restrictions.</li>
+            <li>Intake Procedure:  Walk-ins and telephone referrals accepted.</li>
+            <li>Service Area:  Lee, Scott and Wise Counties, and The City of Norton.</li>
+            <li>Email: <a href="mailto:jtrivett@meoc.org">Julia Dillon</a></li>.
+            <li>Phone(s): (276) 523-4202, 1-800-252-6362</li>
+        </ul>
 			<h1>Care Coordination</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
