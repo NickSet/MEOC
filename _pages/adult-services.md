@@ -303,11 +303,38 @@ h1, h2 {
             <li>Phone(s): (276) 523-4202, 1-800-252-6362</li>
         </ul>
 			<h1>Care Coordination</h1>		
-										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
-			<a href="#" role="button">
-						Read More
-					</a>
+										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/care-coordination-150x150.jpg" alt="" />											
+		<p>Care Coordinationassists older persons at risk of institutional placement to remain in their homes in their own communities.  Care Coordinators investigate a person's needs, preferences, and resources and link the person to a full range of appropriate services and supports, using all available funding sources, and monitoring to ensure that services specified in the support plan <strong>a</strong>re being provided.  MEOC, under sub-contract from local housing authorities, is also the care coordinator for residents of public housing.</p>		
+			<style>
+#ccBtn:hover {
+    background: #008000;
+}
+#ccBtn {
+    background: #0f6606;
+    color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
+}
+</style>
+<center>
+<button id="ccBtn">Read More</button>
+</center>
+<!-- The Modal -->
+    <!-- Modal content -->
+        &times;
+        <h1>Alzheimer's Support Group</h1>
+        <h2>Meetings</h2>
+        <p>Second Thursday every other month (February - April - June - August - October and December) at 12:30 p.m. at Mountain Empire Older Citizens in Big Stone Gap.<br>  Fourth Tuesday every other month (February, April, June, August, October and December) at 12:30 p.m. at the First Christian Church in Pennington Gap.</p>
+        <ul>
+            <li>Fees: No charge.</li>
+            <li>Eligibility: No restrictions.</li>
+            <li>Intake Procedure:  Walk-ins and telephone referrals accepted.</li>
+            <li>Service Area:  Lee, Scott and Wise Counties, and The City of Norton.</li>
+            <li>Email: <a href="mailto:jtrivett@meoc.org">Julia Dillon</a></li>
+            <li>Phone(s): (276) 523-4202, 1-800-252-6362</li>
+        </ul>
 			<h1>Care Giver Support Groups</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>In Home and Family Support Services</p>		
