@@ -392,15 +392,41 @@ h1, h2 {
 			<h1>Home Delivered Meals</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/home-delivered-meals-1-150x150.jpg" alt="" />											
 		<p>Home delivered meal service is available to homebound, frail elderly people who can no longer prepare nutritious well-balanced meals, have no one to assist them and are at-risk of losing their ability to live independently.</p>		
-			<a href="#" role="button">
-						Read More
-					</a>
 			<h1>Homemaker Services</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/Homemakerservices-150x150.jpg" alt="" />											
 		<p>These services are provided by trained home care workers who provide cooking, cleaning, shopping assistance, meal planning and laundry service. Services enable elderly people to care for themselves and to remain in a clean, safe, familiar environment for as long as possible.</p>		
-			<a href="#" role="button">
-						Read More
-					</a>
+			<style>
+#homBtn:hover {
+    background: #008000;
+}
+#homBtn {
+    background: #0f6606;
+    color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
+}
+</style>
+<center>
+<button id="homBtn">Read More</button>
+</center>
+<!-- The Modal -->
+  <!-- Modal content -->
+      &times;
+      <h1>Homemaker Services</h1>
+        <p>These services are provided by trained home care workers who provide cooking, cleaning, 
+        shopping assistance, meal planning and laundry service. Services enable elderly people to 
+        care for themselves and to remain in a clean, safe, familiar environment for as long as 
+        possible.</p>
+        <ul>
+            <li><b>Fees:</b> No charge.  Contributions accepted.</li>
+            <li><b>Eligibility:</b>  Persons aged 60+ and unable to remain safely at home without assistance.</li>
+            <li><b>Intake Procedure:</b>   Walk-ins and telephone referrals accepted.</li>
+            <li><b>Service Area:</b>  Lee, Scott and Wise Counties, and The City of Norton.</li>
+            <li><b>Phone(s):</b> (276) 523-4202, 1-800-252-6362</li>
+            <li><b>E-Mail:</b><a href="jtrivett@meoc.org"> Julia Dillon</a></li>
+        </ul>
 			<h1>In-Home Respite Care</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/inhomerespite-150x150.jpg" alt="" />											
 		<p>In-Home Respite Services is a home-based program in which personal care aides provide relief for families providing around-the-clock care to a family member with some form of mental and/or physical impairment. Activities identified by family caregivers as being most basic and critical will be provided.</p>		
@@ -458,7 +484,7 @@ h1, h2 {
 <!-- The Modal -->
   <!-- Modal content -->
       &times;
-      <h1>Nutrition</h1>
+      <h1>Insurance Counseling</h1>
         <p><b>Individual insurance counseling</b> and assistance is available through MEOC's Virginia Insurance 
         Counseling and Assistance Program (VICAP).  Trained VICAP counselors in our community provide 
         free confidential assistance to individuals in their area.  Information is provided by certified 
