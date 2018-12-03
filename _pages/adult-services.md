@@ -374,9 +374,42 @@ h1, h2 {
 			<h1>Fan Care</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>Many older persons without a cooling system find themselves in emergency situations during hot summer days and nights. Mountain Empire Older Citizens (MEOC) may be able to help.</p>		
-			<a href="#" role="button">
-						Read More
-					</a>
+			<style>
+#fcBtn:hover {
+    background: #008000;
+}
+#fcBtn {
+    background: #0f6606;
+    color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
+}
+</style>
+<center>
+<button id="fcBtn">Read More</button>
+</center>
+<!-- The Modal -->
+  <!-- Modal content -->
+      &times;
+      <h1>Fan Care Program</h1>
+        <p>Many older persons without a cooling system find themselves in emergency 
+        situations during hot summer days and nights.  Mountain Empire Older Citizens 
+        (MEOC) may be able to help.  MEOC's FanCare program begins on July 1 and ends 
+        on September 30 each year.  MEOC distributes a limited number of fans and air 
+        conditioners to eligible older persons in need during summer months. </p>
+		<p>To qualify, a person must be sixty (60) years of age or older, have a situation 
+		at home that threatens health and have an adjusted gross income of at or below 150% 
+		of the federal poverty level (1 person, $1,485; 2 persons, $2,003).  All incomes of 
+		persons in the household must be counted.</p>
+		<p><b>This program is sponsored by Dominion Virginia Power and administered by the 
+		Virginia Department of Aging and Rehabilitative Services.</b></p>
+		<p><b>If you have an emergency cooling need and are interested in applying for a fan or 
+		air conditioner, please call Marsha Craiger at mcraiger@meoc.org.</b></p>
+        <ul>
+            <li><b>E-Mail:</b><a href="mcraiger@meoc.org"> Marsha Craiger</a></li>
+        </ul>
 			<h1>Faith Works</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/faithworks1-150x150.jpg" alt="" />											
 		<p>FAITH WORKS is a partnership between MEOC and the faith community.  MEOC is guided by the philosophy of asset based community development which focuses on a region’s strengths and resources rather than its deficits in organizing those assets in service to others.</p>		
