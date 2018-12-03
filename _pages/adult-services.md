@@ -533,13 +533,11 @@ h1, h2 {
             <li><b>Fees:</b> No charge.</li>
             <li><b>Intake Procedure:</b>  Walk-ins and telephone referrals accepted.</li>
             <li><b>Service Area:</b>  Lee, Scott and Wise Counties, and The City of Norton.</li>
+            <li><b>Phone(s):</b> (276) 523-4202, 1-800-252-6362</li>
+            <li><b>E-Mail:</b><a href="msturgill@meoc.org"> Jennifer Spangler</a></li>
         </ul>
         <p><b>MEOC is also seeking individuals wishing to be trained as VICAP volunteers. Please call us 
         for more information.</b></p>
-        <p>Phone(s):  (276) 523-4202, 1-800-252-6362</p>
-        <p><b>E-Mail:</b>
-        <a href="msturgill@meoc.org">Jennifer Spangler</a>
-        </p>
 			<h1>Local Long Term Care Ombudsman</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/ombudsmanphoto3-150x150.jpg" alt="" />											
 		<p>Receives, investigates and works to resolve complaints made by or on behalf of older persons in long-term care facilities or receiving long-term care services in the community.  </p>		
