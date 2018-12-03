@@ -475,11 +475,11 @@ h1, h2 {
         facilities or receiving long-term care services in the community.  Serves as resource for information regarding 
         institutional and community-based long-term care services.  Complaints may be reported anonymously.</p>
         <ul>
-            <li>Fees: No charge.</li>
-            <li>Eligibility:  Unrestrcited to persons receiving long-term care services.</li>
-            <li>Intake Procedure:  Walk-ins and telephone referrals accepted. Anonymity protected.</li>
-            <li>Service Area:  Lee, Scott and Wise Counties, and The City of Norton.</li>
-            <li>Phone(s):  (276) 523-4202, 1-800-252-6362</li>
+            <li><b>Fees:</b> No charge.</li>
+            <li><b>Eligibility:</b>  Unrestrcited to persons receiving long-term care services.</li>
+            <li><b>Intake Procedure:</b>  Walk-ins and telephone referrals accepted. Anonymity protected.</li>
+            <li><b>Service Area:</b>  Lee, Scott and Wise Counties, and The City of Norton.</li>
+            <li><b>Phone(s):</b>  (276) 523-4202, 1-800-252-6362</li>
             <li>E-Mail:  <a href="lmavredes@meoc.org">Louis Mavredes</a></li>
         </ul>
 			<h1>Nutrition</h1>		
