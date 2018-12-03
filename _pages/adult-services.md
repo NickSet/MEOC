@@ -410,9 +410,44 @@ h1, h2 {
 			<h1>Insurance Counselling</h1>		
 										<img width="135" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/insurancemeoc-135x150.jpg" alt="" />											
 		<p>Individual insurance counseling and assistance is available through MEOC's Virginia Insurance Counseling and Assistance Program (VICAP).</p>		
-			<a href="#" role="button">
-						Read More
-					</a>
+			<style>
+#insBtn:hover {
+    background: #008000;
+}
+#insBtn {
+    background: #0f6606;
+    color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
+}
+</style>
+<center>
+<button id="insBtn">Read More</button>
+</center>
+<!-- The Modal -->
+  <!-- Modal content -->
+      &times;
+      <h1>Nutrition</h1>
+        <p><b>Individual insurance counseling</b> and assistance is available through MEOC's Virginia Insurance 
+        Counseling and Assistance Program (VICAP).  Trained VICAP counselors in our community provide 
+        free confidential assistance to individuals in their area.  Information is provided by certified 
+        volunteer counselors to groups and individuals to help them better understand Medicare, Medicare 
+        Supplemental Insurance, Medicare Part D (prescription drug plan), Medicare Advantage plans, Long 
+        Term Care Insurance, Medicaid, and other insurance.  Counselors can assist in filing claims and 
+        appeals.</p>
+        <ul>
+            <li><b>Fees:</b> No charge.</li>
+            <li><b>Intake Procedure:</b>  Walk-ins and telephone referrals accepted.</li>
+            <li><b>Service Area:</b>  Lee, Scott and Wise Counties, and The City of Norton.</li>
+        </ul>
+        <p><b>MEOC is also seeking individuals wishing to be trained as VICAP volunteers. Please call us 
+        for more information.</b></p>
+        <p>Phone(s):  (276) 523-4202, 1-800-252-6362</p>
+        <p><b>E-Mail:</b>
+        <a href="msturgill@meoc.org">Jennifer Spangler</a>
+        </p>
 			<h1>Local Long Term Care Ombudsman</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/ombudsmanphoto3-150x150.jpg" alt="" />											
 		<p>Receives, investigates and works to resolve complaints made by or on behalf of older persons in long-term care facilities or receiving long-term care services in the community.  </p>		
