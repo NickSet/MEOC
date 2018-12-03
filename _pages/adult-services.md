@@ -338,9 +338,45 @@ h1, h2 {
 			<h1>Care Giver Support Groups</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>In Home and Family Support Services</p>		
-			<a href="#" role="button">
-						Read More
-					</a>
+			<style>
+#cgBtn:hover {
+    background: #008000;
+}
+#cgBtn {
+    background: #0f6606;
+    color: #FFF;
+    font-size: 16px;
+    padding: 10px 24px;
+    border-radius: 6px;
+    border: none;
+}
+</style>
+<center>
+<button id="cgBtn">Read More</button>
+</center>
+<!-- The Modal -->
+  <!-- Modal content -->
+      &times;
+      <h1>Care Giver Support Groups</h1>
+        <ul>
+            <li><a href="http://www.alz.org/carefinder/index.asp">Alzheimer's Association CareFinder</a></li>
+            <li><a href="http://www.nlm.nih.gov/medlineplus">MedlinePlus</a></li>
+            <li><a href="http://www.nlm.nih.gov/medlineplus/alzheimersdisease.html">MedlinePlus – Alzheimer’s Disease</a></li>
+            <li><a href="http://www.nlm.nih.gov/medlineplus/alzheimerscaregivers.html">MedlinePlus – Alzheimer’s Caregivers</a></li>
+            <li><a href="http://www.alz.org/overview.asp">Alzheimer's Association</a></li>
+            <li><a href="https://www.nia.nih.gov/health/about-adear-center">ADEAR - Alzheimer’s Disease Education and Referral Center</a></li>
+            <li><a href="http://www.seniornavigator.com/">Senior Navigator</a></li>
+            <li><a href="http://ec-online.net/">ElderCare Online – Information, Education, & Support for Elderly & Alzheimer’s Caregivers</a></li>
+            <li><a href="http://www.alzonline.net/">Alzheimer’s Caregiver Support Online</a></li>
+            <li><a href="http://caregiver.org/">Family Caregiver Alliance National Center on Caregiving</a></li>
+            <li><a href="http://nfcacares.org/">National Family Caregivers Association</a></li>
+            <li><a href="http://www.healthbeatblog.org//">Health Beat</a></li>
+            <li><a href="http://www.alz.org/carefinder/index.asp">Alzheimer's Association CAREFINDER</a></li>
+            <li><a href="http://www.nlm.nih.gov/medlineplus/"></a>Medicine Plus Health Information from the National Library of Medicine MedlinePlus</li>
+            <li><a href="http://www.alzpossible.org/wordpress-3.1.4/wordpress/">AlzPossible</a></li>
+            <li><b>Contact: <a href="http://webmail.mounet.com/scripts/webmail.exe">Alzeihmer's Caregiver Webmail</a>
+            </b></li>
+        </ul>
 			<h1>Communication Referral</h1>		
 										<img width="150" height="150" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/11/OlderAdults.png" alt="" />											
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
