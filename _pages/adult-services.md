@@ -480,7 +480,7 @@ h1, h2 {
             <li><b>Intake Procedure:</b>  Walk-ins and telephone referrals accepted. Anonymity protected.</li>
             <li><b>Service Area:</b>  Lee, Scott and Wise Counties, and The City of Norton.</li>
             <li><b>Phone(s):</b>  (276) 523-4202, 1-800-252-6362</li>
-            <li>E-Mail:  <a href="lmavredes@meoc.org">Louis Mavredes</a></li>
+            <li><b>E-Mail:</b>  <a href="lmavredes@meoc.org">Louis Mavredes</a></li>
         </ul>
 			<h1>Nutrition</h1>		
 										<img width="150" height="143" src="http://meoc.mcs.uvawise.edu/wp-content/uploads/2018/12/wellness-150x143.png" alt="" />											
